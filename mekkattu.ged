@@ -1,0 +1,3602 @@
+0 HEAD
+1 SOUR Gramps
+2 VERS GrampsAIO64-5.1.3-2
+2 NAME Gramps
+1 DATE 15 DEC 2020
+2 TIME 22:13:55
+1 SUBM @SUBM@
+1 FILE G:\Dev\Bytecture\mekkattu-family\anish-lists.github.io\mekkattu.ged
+1 COPR Copyright (c) 2020 .
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG English
+0 @SUBM@ SUBM
+1 NAME
+0 @I500001@ INDI
+1 NAME Chacko Mekkat (Mekkattu) /Alexander/
+2 GIVN Chacko Mekkat (Mekkattu)
+2 SURN Alexander
+1 SEX M
+1 BIRT
+2 DATE 1 DEC 1953
+2 PLAC Chennithala, Kerala, India
+1 DEAT
+2 DATE 25 MAR 2014
+2 PLAC Chattanooga, TN
+1 EVEN 13 DEC 2020 13:16:33 GMT -0600 
+2 TYPE _UPD
+1 BURI
+2 PLAC Mount Olivet Cemetery, East Ridge, Tennessee, United States
+1 FACT MH:I500001
+2 TYPE RIN
+1 _UID 599A49AE2DB0B197C4B08CE71E7AB559
+1 FAMC @F500005@
+2 PEDI birth
+1 FAMS @F500001@
+1 SOUR @S500001@
+2 PAGE https://www.myheritage.com/research/record-10147-87768356/chacko-m-alexander-in-billiongraves
+2 QUAY 3
+2 DATA
+3 TEXT Chacko M AlexanderBirth: Dec 1 1953Marriage: Nov 12 1979Death: Mar 25 20
+4 CONC 14Burial: Mount Olivet Cemetery, East Ridge, Tennessee, United States
+2 EVEN Record
+3 ROLE 10147:87768356-:
+1 SOUR @S500003@
+2 PAGE https://www.myheritage.com/research/record-40000-381333549/chacko-mekkat-alexander-in-geni-world-family-tree
+2 QUAY 3
+2 DATA
+3 TEXT Chacko Mekkat AlexanderGender: MaleBirth: Dec 1 1953Death: Mar 25 2014Sp
+4 CONC ouse: &lt;a&gt;&lt;Private&gt; Alexander&lt;/a&gt;Children: &lt;a&gt;&lt
+4 CONC ;Private&gt; Kapp (born Alexander)&lt;/a&gt;, &lt;a&gt;Anish Alexander&l
+4 CONC t;/a&gt;
+2 EVEN Record
+3 ROLE 40000:381333549:
+1 NOTE @N0003@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500002@ INDI
+1 NAME Lisiamma /Alexander/
+2 GIVN Lisiamma
+2 SURN Alexander
+1 NAME Lisiamma /Alexander/
+2 TYPE married
+2 GIVN Lisiamma
+2 SURN Alexander
+1 SEX F
+1 BIRT
+2 DATE 30 MAY 1959
+2 PLAC kulathupuzha, kerala, India
+1 EVEN 20 AUG 2017 22:02:14 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500002
+2 TYPE RIN
+1 _UID 599A49AE39DA5198C4B08CE71E7AB559
+1 FAMC @F500002@
+2 PEDI birth
+1 FAMS @F500001@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500003@ INDI
+1 NAME Anish Makkat (Mekkattu) /Alexander/
+2 GIVN Anish Makkat (Mekkattu)
+2 SURN Alexander
+1 SEX M
+1 BIRT
+2 DATE 14 JUL 1981
+2 PLAC Anchal, Kerala, India
+1 EVEN 13 DEC 2020 13:16:44 GMT -0600 
+2 TYPE _UPD
+1 RESI
+2 EMAIL anish714@@gmail.com
+1 RESI
+2 DATE 1 AUG 1999
+2 PLAC 7106 Igou Gap Rd, Chattanooga, Tennessee 37421-3075, USA
+1 FACT MH:I500003
+2 TYPE RIN
+1 _UID 599A49AE4247719AC4B08CE71E7AB559
+1 FAMC @F500001@
+2 PEDI birth
+1 FAMS @F500003@
+1 SOUR @S500002@
+2 PAGE https://www.myheritage.com/research/record-10220-308681712/anish-m-alexander-in-us-public-records-index
+2 QUAY 3
+2 DATA
+3 DATE 23 NOV 2017
+3 TEXT Anish M AlexanderBirth: July 14 1981&amp;nbsp;&amp;nbsp;Possible relativ
+4 CONC es: &lt;br&gt;Name Birth&lt;br&gt;&lt;a&gt;Anila M Alexander&lt;/a&gt; M
+4 CONC ay 9 1983&lt;br&gt;&lt;a&gt;Leelamma C Alexander&lt;/a&gt; &lt;br&gt;&lt
+4 CONC ;a&gt;Alexander Makkat Checko&lt;/a&gt; Dec 15 1953&amp;nbsp;&amp;nbsp;R
+4 CONC esidences: ResidenceDate7106 Igou Gap Rd, ChattanoogaTennessee 37421-307
+4 CONC 5, USAAug 1 1999Show neighbors&amp;nbsp;&amp;nbsp;Phone numbers: &lt;br&
+4 CONC gt;Number Date&lt;br&gt;(423) 899-1935 Aug 1 1999
+2 EVEN Record
+3 ROLE 10220:308681712:
+1 SOUR @S500005@
+2 PAGE https://www.myheritage.com/research/record-10702-2133408/anish-makkat-alexander-and-ligy-varkey-in-new-jersey-marriage-license-index
+2 QUAY 3
+2 DATA
+3 TEXT Anish Makkat Alexander &amp; Ligy Varkey&amp;lt;br&amp;gt;Marriage: Jul
+4 CONC y 28 2007 - Bergenfield, Bergen, New Jersey, United States&amp;lt;br&amp
+4 CONC ;gt;Spouse 1: Ligy Varkey&amp;lt;br&amp;gt;Spouse 2: Anish Makkat Alexan
+4 CONC der&amp;lt;br&amp;gt;Line: 19
+2 EVEN Record
+3 ROLE 10702:2133408-:
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500006@ INDI
+1 NAME Ligy Varkey /Varkey/
+2 GIVN Ligy Varkey
+2 SURN Varkey
+2 NPFX Dr.
+1 NAME Ligy Varkey /Alexander/
+2 TYPE married
+2 GIVN Ligy Varkey
+2 SURN Alexander
+2 NPFX Dr.
+1 SEX F
+1 BIRT
+2 DATE 13 JUN 1981
+2 PLAC Kerala, India
+1 EVEN 13 DEC 2020 13:11:44 GMT -0600 
+2 TYPE _UPD
+1 RESI
+2 EMAIL ligy613@@gmail.com
+1 FACT MH:I500006
+2 TYPE RIN
+1 _UID 599A4C810E517828379EBE290FAB01D4
+1 FAMC @F500024@
+2 PEDI birth
+1 FAMS @F500003@
+1 SOUR @S500005@
+2 PAGE https://www.myheritage.com/research/record-10702-2133408/anish-makkat-alexander-and-ligy-varkey-in-new-jersey-marriage-license-index
+2 QUAY 3
+2 DATA
+3 TEXT Anish Makkat Alexander &amp; Ligy Varkey&amp;lt;br&amp;gt;Marriage: Jul
+4 CONC y 28 2007 - Bergenfield, Bergen, New Jersey, United States&amp;lt;br&amp
+4 CONC ;gt;Spouse 1: Ligy Varkey&amp;lt;br&amp;gt;Spouse 2: Anish Makkat Alexan
+4 CONC der&amp;lt;br&amp;gt;Line: 19
+2 EVEN Record
+3 ROLE 10702:2133408-S:
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500007@ INDI
+1 NAME Anila Makkat /Alexander/
+2 GIVN Anila Makkat
+2 SURN Alexander
+1 NAME Anila Makkat /Kapp/
+2 TYPE married
+2 GIVN Anila Makkat
+2 SURN Kapp
+1 SEX F
+1 BIRT
+2 DATE 9 MAY 1983
+2 PLAC Kerala, India
+1 EVEN 20 AUG 2017 22:01:20 GMT -0600 
+2 TYPE _UPD
+1 RESI
+2 EMAIL nilla001@@hotmail.com
+1 RESI
+2 PLAC 839 Fuller Glen Cir, Chattanooga, Tennessee 37421-4468, USA
+1 FACT MH:I500007
+2 TYPE RIN
+1 _UID 599A4CFDA9311FA1963B6A358F8DD0A7
+1 FAMC @F500001@
+2 PEDI birth
+1 FAMS @F500004@
+1 SOUR @S500002@
+2 PAGE https://www.myheritage.com/research/record-10220-776895930/anila-m-alexander-in-us-public-records-index
+2 QUAY 3
+2 DATA
+3 TEXT Anila M AlexanderBirth: May 9 1983&nbsp;&nbsp;Possible relatives: Name B
+4 CONC irth<a>Anish M Alexander</a> July 14 1981<a>M Chacko Alexander</a> <a>Al
+4 CONC exander Makkat Checko</a> Dec 15 1953&nbsp;&nbsp;Residences: ResidenceDa
+4 CONC te839 Fuller Glen Cir, ChattanoogaTennessee 37421-4468, USAShow neighbor
+4 CONC s
+2 EVEN Record
+3 ROLE 10220:776895930:
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500008@ INDI
+1 NAME Jaiden Mekkat (Mekkattu) /Alexander/
+2 GIVN Jaiden Mekkat (Mekkattu)
+2 SURN Alexander
+1 SEX M
+1 BIRT
+2 DATE 2 JUN 2012
+2 PLAC Northside Hospital, Atlanta, GA
+1 EVEN 13 DEC 2020 13:24:51 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500008
+2 TYPE RIN
+1 _UID 599A4DB45DE385D77B6ADFEBEB6322DB
+1 FAMC @F500003@
+2 PEDI birth
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500009@ INDI
+1 NAME Ava Lily /Alexander/
+2 GIVN Ava Lily
+2 SURN Alexander
+1 SEX F
+1 BIRT
+2 DATE 17 NOV 2014
+2 PLAC Northside Hospital, Atlanta, GA
+1 EVEN 20 AUG 2017 22:04:50 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500009
+2 TYPE RIN
+1 _UID 599A4DD1E6F22E859AF1F377ED95B1BB
+1 FAMC @F500003@
+2 PEDI birth
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500010@ INDI
+1 NAME Keith T /Kapp/
+2 GIVN Keith T
+2 SURN Kapp
+2 NPFX Dr.
+1 SEX M
+1 BIRT
+2 DATE 1 DEC 1977
+2 PLAC Denver, CO
+1 EVEN 21 AUG 2017 09:57:36 GMT -0600 
+2 TYPE _UPD
+1 RESI
+2 DATE 20 DEC 1995
+2 PLAC 2059 S Gray Dr, Lakewood, Colorado 80227-2505, USA
+1 RESI
+2 DATE 1 SEP 1999
+2 PLAC 1718 30th St, Apt 307, Greeley, Colorado 80631-8623, USA
+1 RESI
+2 DATE 1 AUG 2000
+2 PLAC 3341 35th St, Greeley, Colorado 80634-9405, USA
+1 RESI
+2 DATE 1 OCT 2000
+2 PLAC 2730 W 22nd St, Greeley, Colorado 80634-6506, USA
+1 RESI
+2 DATE 15 JUN 2004
+2 PLAC 815 Cherry St, Apt 301, Denver, Colorado 80220-4006, USA
+1 FACT MH:I500010
+2 TYPE RIN
+1 _UID 599A50ED3ADF57DA206B37B1D754FBF1
+1 FAMC @F500009@
+2 PEDI birth
+1 FAMS @F500004@
+1 SOUR @S500002@
+2 PAGE https://www.myheritage.com/research/record-10220-359988927/keith-t-kapp-in-us-public-records-index
+2 QUAY 3
+2 DATA
+3 TEXT Keith T KappBirth: Dec 1 1977Also known as: Capp T Keith, Kays T Keith&n
+4 CONC bsp;&nbsp;Possible relatives: Name Birth<a>Matt Kapp</a> Aug 10 1980<a>J
+4 CONC ason Thomas Kapp</a> Aug 20 1982<a>Thomas V Kappamamuttil</a> Feb 28 194
+4 CONC 9<a>Susie Kappamamuttil</a> Jan 9 1950&nbsp;&nbsp;Residences: ResidenceD
+4 CONC ate2059 S Gray Dr, LakewoodColorado 80227-2505, USADec 20 1995Show neigh
+4 CONC bors1718 30th St, Apt 307, GreeleyColorado 80631-8623, USASep 1 1999Sho
+4 CONC w neighbors3341 35th St, GreeleyColorado 80634-9405, USAAug 1 2000Show n
+4 CONC eighbors2730 W 22nd St, GreeleyColorado 80634-6506, USAOct 1 2000Show ne
+4 CONC ighbors815 Cherry St, Apt 301, DenverColorado 80220-4006, USAJune 15 200
+4 CONC 4Show neighbors&nbsp;&nbsp;Phone numbers: Number Date(970) 336-0897 Jul
+4 CONC y 17 2001980-6559 June 15 2004(303) 980-6559 Nov 15 2007
+2 EVEN Record
+3 ROLE 10220:359988927:
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500011@ INDI
+1 NAME Mariyamma (Pennamma) /Mulamoottil Kumbum Velli/
+2 GIVN Mariyamma (Pennamma)
+2 SURN Mulamoottil Kumbum Velli
+1 NAME Mariyamma (Pennamma) /Varghese/
+2 TYPE married
+2 GIVN Mariyamma (Pennamma)
+2 SURN Varghese
+1 SEX F
+1 BIRT
+2 DATE 1924
+2 PLAC Ammacheri, Thiruvalla, Kerala, India
+1 DEAT
+2 DATE 27 JUN 2007
+2 PLAC Mekkattu House, E.S.M Colony, Kulathupuza, Kerala, India
+2 CAUS Diabetes
+1 EVEN 6 DEC 2020 21:32:47 GMT -0600 
+2 TYPE _UPD
+1 BURI
+2 PLAC TPM Cemetery, Kulathupuza, Kerala, India
+1 FACT MH:I500011
+2 TYPE RIN
+1 _UID 599A51F9986D5C800912FE5D2CE29CCF
+1 FAMC @F500047@
+2 PEDI birth
+1 FAMS @F500005@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500012@ INDI
+1 NAME Varghese (Varkey) Mekkattu /Chacko/
+2 GIVN Varghese (Varkey) Mekkattu
+2 SURN Chacko
+2 NICK Unnuni
+1 SEX M
+1 BIRT
+2 DATE EST 1917
+2 PLAC Chennithala, Kerala, India
+1 DEAT
+2 DATE EST 14 APR 1999
+2 PLAC Mekkattu House, E.S.M Colony, Kulathupuza, Kerala, India
+2 CAUS Heart attack or Stroke
+1 EVEN 15 DEC 2020 18:03:59 GMT -0600 
+2 TYPE _UPD
+1 BURI
+2 PLAC TPM Cemetery, Kulathupuza, Kerala, India
+1 RELI Christian
+1 EVEN Malayalam
+2 TYPE Language spoken
+1 EVEN Moved from Chennithala to Kulathupuza when my dad was about 4 years old.
+2 TYPE Move
+2 DATE BET 1957 AND 1958
+2 PLAC Kulathupuza
+1 NATI Indian
+1 FACT MH:I500012
+2 TYPE RIN
+1 _UID 599A51F9AC3FDC810912FE5D2CE29CCF
+1 FAMC @F500046@
+2 PEDI birth
+1 FAMS @F500005@
+1 NOTE @N0009@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500013@ INDI
+1 NAME Shaji Mekkattu /Varghese/
+2 GIVN Shaji Mekkattu
+2 SURN Varghese
+1 SEX M
+1 BIRT
+2 DATE 7 SEP 1964
+2 PLAC kulathupuzha, kerala, India
+1 DEAT
+2 DATE 11 AUG 2020
+2 PLAC Erlanger Hospital, Chattanooga, Tennesse, USA
+2 CAUS Complications from Cancer
+1 EVEN 13 DEC 2020 13:16:23 GMT -0600 
+2 TYPE _UPD
+1 BURI
+2 PLAC Mount Olivet Cemetery, East Ridge, Tennessee, United States
+1 FACT MH:I500013
+2 TYPE RIN
+1 _UID 599A51F9BA317C830912FE5D2CE29CCF
+1 FAMC @F500005@
+2 PEDI birth
+1 FAMS @F500011@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500014@ INDI
+1 NAME Daisy /Varghese/
+2 GIVN Daisy
+2 SURN Varghese
+1 NAME Daisy /Varughese/
+2 TYPE married
+2 GIVN Daisy
+2 SURN Varughese
+1 SEX F
+1 BIRT
+2 DATE 20 MAY 1957
+2 PLAC kulathupuzha, kerala, India
+1 EVEN 7 OCT 2017 20:05:38 GMT -0600 
+2 TYPE _UPD
+1 RESI
+2 DATE 23 FEB 2004
+2 PLAC 37 Berkshire Rd, Hicksville, New York 11801-3351, USA
+1 FACT MH:I500014
+2 TYPE RIN
+1 _UID 599A57650DA42714B5566774F795CEC6
+1 FAMC @F500005@
+2 PEDI birth
+1 FAMS @F500006@
+1 SOUR @S500002@
+2 PAGE https://www.myheritage.com/research/record-10220-678245586/daisy-varghese-in-us-public-records-index
+2 QUAY 3
+2 DATA
+3 DATE 7 OCT 2017
+3 TEXT Daisy VargheseBirth: May 20 1957&amp;nbsp;&amp;nbsp;Possible relatives
+4 CONC : &lt;br&gt;Name Birth&lt;br&gt;&lt;a&gt;Rajukutty N Varughese&lt;/a&gt
+4 CONC ; Nov 23 1954&amp;nbsp;&amp;nbsp;Residences: ResidenceDate37 Berkshire R
+4 CONC d, HicksvilleNew York 11801-3351, USAFeb 23 2004Show neighbors
+2 EVEN Record
+3 ROLE 10220:678245586:
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500015@ INDI
+1 NAME Rajukutty N /Varughese/
+2 GIVN Rajukutty N
+2 SURN Varughese
+1 SEX M
+1 BIRT
+2 DATE 23 NOV 1954
+2 PLAC Kerala, India
+1 EVEN 13 DEC 2020 13:05:49 GMT -0600 
+2 TYPE _UPD
+1 RESI
+2 PLAC 341 Richard Ave, Apt A4, Hicksville, New York 11801-1210, USA
+1 RESI
+2 DATE 1 DEC 1994
+2 PLAC 9015 215th Pl, Queens Village, New York 11428-1229, USA
+1 RESI
+2 DATE 1 MAY 2001
+2 PLAC 8605 Brandermill Ln, Chattanooga, Tennessee 37421-2736, USA
+1 RESI
+2 DATE 20 SEP 2001
+2 PLAC 37 Berkshire Rd, Hicksville, New York 11801-3351, USA
+1 FACT MH:I500015
+2 TYPE RIN
+1 _UID 599A57BF26690F7EB823D5D44C7E6ECC
+1 FAMS @F500006@
+1 SOUR @S500002@
+2 PAGE https://www.myheritage.com/research/record-10220-72474046/rajukutty-n-varughese-in-us-public-records-index
+2 QUAY 3
+2 DATA
+3 TEXT Rajukutty N Varughese&amp;lt;br&amp;gt;Birth: Nov 23 1954&amp;lt;br&amp;
+4 CONC gt;Also known as: Barughese Raju, Joegy Raju, Joicey Raju, Varghese Raju
+4 CONC kutty&amp;lt;br&amp;gt;&amp;nbsp;&amp;nbsp;Possible relatives: &lt;br&gt
+4 CONC ;Name Birth&lt;br&gt;&lt;a&gt;Joicey Raju&lt;/a&gt; Mar 15 1986&lt;br&gt
+4 CONC ;&lt;a&gt;Joegy Raju&lt;/a&gt; Oct 3 1988&lt;br&gt;&lt;a&gt;George V Var
+4 CONC ghese&lt;/a&gt; Jan 21 1949&lt;br&gt;&lt;a&gt;Daisy Varghese&lt;/a&gt; M
+4 CONC ay 20 1957&lt;br&gt;&lt;a&gt;Shaji Varghese&lt;/a&gt; Sep 1 1972&lt;br&g
+4 CONC t;&lt;a&gt;Gracyamna Varghese&lt;/a&gt; Sep 1 1978&lt;br&gt;&lt;a&gt;L V
+4 CONC arughese&lt;/a&gt; 1959&lt;br&gt;&lt;a&gt;Daisy M Varughese&lt;/a&gt; Se
+4 CONC p 1 1963&lt;br&gt;&lt;a&gt;Shaji N Varughese&lt;/a&gt; Apr 25 1965&lt;br
+4 CONC &gt;&lt;a&gt;Gracy S Varughese&lt;/a&gt; 1969&lt;br&gt;&lt;a&gt;Daisy Va
+4 CONC rughese&lt;/a&gt; Sep 1 1975&lt;br&gt;&lt;a&gt;Chacko P Varughese&lt;/a&
+4 CONC gt; &amp;lt;br&amp;gt;&amp;nbsp;&amp;nbsp;Residences: ResidenceDate901
+4 CONC 5 215th Pl, Queens VillageNew York 11428-1229, USADec 1 1994Show neighbo
+4 CONC rs8605 Brandermill Ln, ChattanoogaTennessee 37421-2736, USAMay 1 2001Sho
+4 CONC w neighbors37 Berkshire Rd, HicksvilleNew York 11801-3351, USASep 20 200
+4 CONC 1Show neighbors341 Richard Ave, Apt A4, HicksvilleNew York 11801-1210, U
+4 CONC SAShow neighbors&amp;lt;br&amp;gt;&amp;nbsp;&amp;nbsp;Phone numbers: &lt
+4 CONC ;br&gt;Number Date&lt;br&gt;(718) 217-5224 Dec 1 2002&lt;br&gt;(516) 433
+4 CONC -0803 Between Feb 25 2004 and Jan 10 2009&lt;br&gt;217-5224 Jan 10 2009&
+4 CONC lt;br&gt;(516) 639-2167 Jan 10 2009
+2 EVEN Record
+3 ROLE 10220:72474046:
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500016@ INDI
+1 NAME Joicey Raju /Varghese/
+2 GIVN Joicey Raju
+2 SURN Varghese
+1 NAME Joicey Raju /Varughese/
+2 TYPE married
+2 GIVN Joicey Raju
+2 SURN Varughese
+1 SEX F
+1 EVEN 20 AUG 2017 22:47:50 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500016
+2 TYPE RIN
+1 _UID 599A57E66A5C4DAF82D44361921A8CBC
+1 FAMC @F500006@
+2 PEDI birth
+1 FAMS @F500007@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500017@ INDI
+1 NAME Binu /Varughese/
+2 GIVN Binu
+2 SURN Varughese
+1 SEX M
+1 BIRT
+2 DATE 4 OCT 1980
+2 PLAC Brooklyn, NY
+1 EVEN 7 OCT 2017 20:14:03 GMT -0600 
+2 TYPE _UPD
+1 RESI
+2 PLAC 192 Dogwood Rd, Roslyn, New York 11576-3015, USA
+1 FACT MH:I500017
+2 TYPE RIN
+1 _UID 599A58031B056969AFA1DA6E94B663E1
+1 FAMC @F500018@
+2 PEDI birth
+1 FAMS @F500007@
+1 SOUR @S500002@
+2 PAGE https://www.myheritage.com/research/record-10220-283104783/binu-p-varughese-in-us-public-records-index
+2 QUAY 3
+2 DATA
+3 DATE 7 OCT 2017
+3 TEXT Binu P VarugheseBirth: Oct 15 1980&amp;nbsp;&amp;nbsp;Possible relatives
+4 CONC : &lt;br&gt;Name Birth&lt;br&gt;&lt;a&gt;Varughese K Phillips&lt;/a&gt
+4 CONC ; Nov 12 1952&lt;br&gt;&lt;a&gt;Sosamma K Varughese&lt;/a&gt; May 25 195
+4 CONC 9&lt;br&gt;&lt;a&gt;Betty Varughese&lt;/a&gt; Jan 16 1983&lt;br&gt;&lt;a
+4 CONC &gt;Etal Philip Varughese&lt;/a&gt; &lt;br&gt;&lt;a&gt;Varkey Varughese&
+4 CONC lt;/a&gt; &amp;nbsp;&amp;nbsp;Residences: ResidenceDate192 Dogwood Rd, R
+4 CONC oslynNew York 11576-3015, USAShow neighbors
+2 EVEN Record
+3 ROLE 10220:283104783:
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500018@ INDI
+1 NAME James /Raju/
+2 GIVN James
+2 SURN Raju
+1 SEX M
+1 BIRT
+2 DATE 4 MAY 1991
+2 PLAC New York
+1 EVEN 20 AUG 2017 22:50:00 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500018
+2 TYPE RIN
+1 _UID 599A5867EE67F29111AC762D5D208823
+1 FAMC @F500006@
+2 PEDI birth
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500019@ INDI
+1 NAME Joegy /Raju/
+2 GIVN Joegy
+2 SURN Raju
+1 SEX M
+1 BIRT
+2 DATE 3 OCT 1989
+2 PLAC Saudi Arabia
+1 EVEN 21 AUG 2017 12:24:10 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500019
+2 TYPE RIN
+1 _UID 599A58E930016FC941BD2E4D2D0D8260
+1 FAMC @F500006@
+2 PEDI birth
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500020@ INDI
+1 NAME Leelamma //
+2 GIVN Leelamma
+1 NAME Leelamma /Alexander/
+2 TYPE married
+2 GIVN Leelamma
+2 SURN Alexander
+1 SEX F
+1 BIRT
+2 DATE 1 JUN 1959
+2 PLAC Kula
+1 EVEN 21 AUG 2017 16:16:31 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500020
+2 TYPE RIN
+1 _UID 599A5962ACA5061ACAC77DD424666EB6
+1 FAMC @F500005@
+2 PEDI birth
+1 FAMS @F500008@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500021@ INDI
+1 NAME Alexander /Chacko/
+2 GIVN Alexander
+2 SURN Chacko
+1 SEX M
+1 BIRT
+2 DATE 26 MAY 1959
+2 PLAC Chenkullam, Kerala, India
+1 EVEN 7 OCT 2017 20:25:24 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500021
+2 TYPE RIN
+1 _UID 599A5987C5C32E3A6B29ECA37381A4FE
+1 FAMS @F500008@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500026@ INDI
+1 NAME Diana /Varghese/
+2 GIVN Diana
+2 SURN Varghese
+1 SEX F
+1 BIRT
+2 DATE 19 OCT 1996
+2 PLAC New York
+1 EVEN 7 OCT 2017 20:23:38 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500026
+2 TYPE RIN
+1 _UID 599AE80E7A391A8E8196E5AB26C7C832
+1 FAMC @F500011@
+2 PEDI birth
+1 FAMS @F500058@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500027@ INDI
+1 NAME Gracy //
+2 GIVN Gracy
+1 NAME Gracy /Varghese/
+2 TYPE married
+2 GIVN Gracy
+2 SURN Varghese
+1 SEX F
+1 BIRT
+2 DATE 27 MAY 1969
+1 EVEN 15 AUG 2020 17:41:00 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500027
+2 TYPE RIN
+1 _UID 599AE80E934DCA8F8196E5AB26C7C832
+1 FAMC @F500048@
+2 PEDI birth
+1 FAMS @F500011@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500028@ INDI
+1 NAME Dennis /Varghese/
+2 GIVN Dennis
+2 SURN Varghese
+1 SEX M
+1 BIRT
+2 DATE 30 APR 2000
+2 PLAC New York
+1 EVEN 7 OCT 2017 20:24:03 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500028
+2 TYPE RIN
+1 _UID 599AE85BAD2D562B605F7136EF8A9785
+1 FAMC @F500011@
+2 PEDI birth
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500029@ INDI
+1 NAME Sosamma /Varghese/
+2 GIVN Sosamma
+2 SURN Varghese
+1 NAME Sosamma /George/
+2 TYPE married
+2 GIVN Sosamma
+2 SURN George
+1 SEX F
+1 BIRT
+2 DATE 23 AUG 1949
+2 PLAC Chennithala, Kerala, India
+1 EVEN 21 AUG 2017 09:36:23 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500029
+2 TYPE RIN
+1 _UID 599AECF9EDFA1D4C39B8DEE1740260CE
+1 FAMC @F500005@
+2 PEDI birth
+1 FAMS @F500012@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500030@ INDI
+1 NAME Suresh D /George/
+2 GIVN Suresh D
+2 SURN George
+1 SEX M
+1 BIRT
+2 DATE 24 MAY 1947
+2 PLAC Kerala, India
+1 EVEN 7 OCT 2017 21:35:43 GMT -0600 
+2 TYPE _UPD
+1 RESI
+2 DATE 1 APR 1985
+2 PLAC 5 Prose St, Hicksville, New York 11801-2315, USA
+1 RESI
+2 DATE 1 OCT 1986
+2 PLAC 26 Summit St, Hicksville, New York 11801-3355, USA
+1 RESI
+2 PLAC 4255 Colden St, Apt 16P, Flushing, New York 11355-3946, USA
+1 FACT MH:I500030
+2 TYPE RIN
+1 _UID 599AED377A7552A1D1C365C39D17C42D
+1 FAMC @F500028@
+2 PEDI birth
+1 FAMS @F500012@
+1 SOUR @S500002@
+2 PAGE https://www.myheritage.com/research/record-10220-64221655/suresh-d-george-in-us-public-records-index
+2 QUAY 3
+2 DATA
+3 DATE 21 AUG 2017
+3 TEXT Suresh D GeorgeBirth: May 24 1947Also known as: Sosamma George, Sures
+4 CONC h D George&nbsp;&nbsp;Possible relatives: Name Birth<a>Suresh Sosamma Ge
+4 CONC orge</a> Aug 23 1949<a>Ann D George</a> Sep 27 1979<a>Andrew D George</a
+4 CONC > Sep 24 1986<a>Elizabeth George</a> <a>George K Joseph</a> June 15 1940
+4 CONC &nbsp;&nbsp;Residences: ResidenceDate5 Prose St, HicksvilleNew York 1180
+4 CONC 1-2315, USAApr 1 1985Show neighbors26 Summit St, HicksvilleNew York 1180
+4 CONC 1-3355, USAOct 1 1986Show neighbors4255 Colden St, Apt 16P, FlushingNe
+4 CONC w York 11355-3946, USAShow neighbors&nbsp;&nbsp;Phone numbers: Number Da
+4 CONC te(516) 433-6410 Between Oct 1 1986 and Jan 1 2009(718) 463-7209 Nov 1
+4 CONC 3 2000(718) 961-2970 Nov 13 2000463-7209 Jan 1 2009(516) 931-1513 Ja
+4 CONC n 1 2009
+2 EVEN Record
+3 ROLE 10220:64221655:
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500031@ INDI
+1 NAME Ann D /George/
+2 GIVN Ann D
+2 SURN George
+1 NAME Ann D /George-Sigler/
+2 TYPE married
+2 GIVN Ann D
+2 SURN George-Sigler
+1 SEX F
+1 BIRT
+2 DATE 27 SEP 1979
+2 PLAC New York
+1 EVEN 21 AUG 2017 10:14:04 GMT -0600 
+2 TYPE _UPD
+1 RESI
+2 DATE BET 1 AUG 2000 AND 1 MAY 2001
+2 PLAC 22 Chestnut St, Binghamton, New York 13905-4418, USA
+1 RESI
+2 DATE BET 1 AUG 2000 AND 1 AUG 2002
+2 PLAC 24 Clarke St, Binghamton, New York 13905-3613, USA
+1 RESI
+2 DATE 1 JUN 2002
+2 PLAC 24 Clark Ave, Binghamton, New York 13901-1207, USA
+1 RESI
+2 DATE 9 APR 2004
+2 PLAC 348 E 89th St, Apt 3W, New York, New York 10128-4510, USA
+1 RESI
+2 PLAC 26 Summit St, Hicksville, New York 11801-3355, USA
+1 RESI
+2 PLAC 348 E 89th St, New York, New York 10128-4502, USA
+1 RESI
+2 DATE ABT 2001
+2 PLAC 22 Chestnut St, Binghamton, New York 13905-4418, USA
+1 RESI
+2 PLAC 26 Summit St, Hicksville, New York 11801-3355, USA
+1 FACT MH:I500031
+2 TYPE RIN
+1 _UID 599AED949132F794E23C8D94995E49E3
+1 FAMC @F500012@
+2 PEDI birth
+1 FAMS @F500044@
+1 SOUR @S500002@
+2 PAGE https://www.myheritage.com/research/record-10220-284579139/ann-d-george-in-us-public-records-index
+2 QUAY 3
+2 DATA
+3 DATE 21 AUG 2017
+3 TEXT Ann D GeorgeBirth: Sep 27 1979Also known as: Goerge Ann&nbsp;&nbsp;Possi
+4 CONC ble relatives: Name Birth<a>Suresh D George</a> May 24 1947<a>Suresh Sos
+4 CONC amma George</a> Aug 23 1949<a>Andrew D George</a> Sep 24 1986&nbsp;&nbsp
+4 CONC ;Residences: ResidenceDate22 Chestnut St, BinghamtonNew York 13905-4418
+4 CONC , USABetween Aug 1 2000 and May 1 2001Show neighbors24 Clarke St, Bingha
+4 CONC mtonNew York 13905-3613, USABetween Aug 1 2000 and Aug 1 2002Show neighb
+4 CONC ors24 Clark Ave, BinghamtonNew York 13901-1207, USAJune 1 2002Show neigh
+4 CONC bors348 E 89th St, Apt 3W, New YorkNew York 10128-4510, USAApr 9 2004Sho
+4 CONC w neighbors26 Summit St, HicksvilleNew York 11801-3355, USAShow neighbor
+4 CONC s348 E 89th St, New YorkNew York 10128-4502, USAShow neighbors&nbsp;&nbs
+4 CONC p;Phone numbers: Number Date(607) 722-6679 Between Aug 1 2000 and Au
+4 CONC g 1 2002(212) 996-0167 Between Apr 9 2004 and Mar 25 2008(212) 722-667
+4 CONC 9 Oct 1 2004722-6679 Mar 25 2008
+2 EVEN Record
+3 ROLE 10220:284579139:
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500032@ INDI
+1 NAME Andrew D /George/
+2 GIVN Andrew D
+2 SURN George
+1 SEX M
+1 BIRT
+2 DATE 24 SEP 1986
+1 EVEN 21 AUG 2017 09:45:36 GMT -0600 
+2 TYPE _UPD
+1 RESI
+2 DATE 2 NOV 2004
+2 PLAC 26 Summit St, Hicksville, New York 11801-3355, USA
+1 FACT MH:I500032
+2 TYPE RIN
+1 _UID 599AF1EDD570B79502E0896C3AF18875
+1 FAMC @F500012@
+2 PEDI birth
+1 SOUR @S500002@
+2 PAGE https://www.myheritage.com/research/record-10220-678245376/andrew-d-george-in-us-public-records-index
+2 QUAY 3
+2 DATA
+3 TEXT Andrew D GeorgeBirth: Sep 24 1986Also known as: George D Ann&nbsp;&nbsp;
+4 CONC Possible relatives: Name Birth<a>Suresh D George</a> May 24 1947<a>Sures
+4 CONC h Sosamma George</a> Aug 23 1949<a>Ann D George</a> Sep 27 1979&nbsp;&nb
+4 CONC sp;Residences: ResidenceDate26 Summit St, HicksvilleNew York 11801-3355
+4 CONC , USANov 2 2004Show neighbors&nbsp;&nbsp;Phone numbers: Number Date(516
+4 CONC ) 433-6410 Nov 15 2007
+2 EVEN Record
+3 ROLE 10220:678245376:
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500033@ INDI
+1 NAME Santhamma /Varghese/
+2 GIVN Santhamma
+2 SURN Varghese
+1 NAME Santhamma /Abraham/
+2 TYPE married
+2 GIVN Santhamma
+2 SURN Abraham
+1 SEX F
+1 BIRT
+2 DATE 10 MAR 1952
+2 PLAC Chennithala, Kerala, India
+1 EVEN 7 OCT 2017 21:43:27 GMT -0600 
+2 TYPE _UPD
+1 RESI
+2 DATE ABT 2001
+2 PLAC 1507 Hickory Valley Rd, Apt G49, Chattanooga, Tennessee 37421-5616, USA
+1 RESI
+2 DATE 1 MAR 2002
+2 PLAC 2501 Standifer Oaks Rd, Chattanooga, Tennessee 37421-1487, USA
+1 FACT MH:I500033
+2 TYPE RIN
+1 _UID 599B143BEBE1F2CF5821D70CF846431C
+1 FAMC @F500005@
+2 PEDI birth
+1 FAMS @F500013@
+1 SOUR @S500002@
+2 PAGE https://www.myheritage.com/research/record-10220-270978434/santhamma-varghese-in-us-public-records-index
+2 QUAY 3
+2 DATA
+3 TEXT Santhamma VargheseAlso known as: Abraham Santhamma&amp;nbsp;&amp;nbsp;Po
+4 CONC ssible relatives: &lt;br&gt;Name Birth&lt;br&gt;&lt;a&gt;Daise Abraham&l
+4 CONC t;/a&gt; Sep 5 1981&lt;br&gt;&lt;a&gt;Grace Abraham&lt;/a&gt; &lt;br&gt;
+4 CONC &lt;a&gt;Abraham C Varghese&lt;/a&gt; Sep 1 1952&amp;nbsp;&amp;nbsp;Resi
+4 CONC dences: ResidenceDate1507 Hickory Valley Rd, Apt G49, ChattanoogaTenness
+4 CONC ee 37421-5616, USABetween Apr 1 2000 and Mar 1 2001Show neighbors2501 St
+4 CONC andifer Oaks Rd, ChattanoogaTennessee 37421-1487, USAMar 1 2002Show neig
+4 CONC hbors&amp;nbsp;&amp;nbsp;Phone numbers: &lt;br&gt;Number Date&lt;br&gt;(
+4 CONC 423) 899-6879 Jan 1 2009
+2 EVEN Record
+3 ROLE 10220:270978434:
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500034@ INDI
+1 NAME Abraham C /Varghese/
+2 GIVN Abraham C
+2 SURN Varghese
+1 SEX M
+1 BIRT
+2 DATE 1 SEP 1952
+2 PLAC Channapetta, Kerala, India
+1 EVEN 21 AUG 2017 12:20:16 GMT -0600 
+2 TYPE _UPD
+1 RESI
+2 DATE 1 DEC 1998
+2 PLAC 7106 Igou Gap Rd, Chattanooga, Tennessee 37421-3075, USA
+1 RESI
+2 DATE BET 1 MAY 1999 AND 1 APR 2001
+2 PLAC 1507 Hickory Valley Rd, Apt G49, Chattanooga, Tennessee 37421-5616, USA
+1 RESI
+2 DATE 1 JUL 1999
+2 PLAC 1507 Hickory Valley Rd, Chattanooga, Tennessee 37421-5611, USA
+1 RESI
+2 DATE 1 MAR 2002
+2 PLAC 2501 Standifer Oaks Rd, Chattanooga, Tennessee 37421-1487, USA
+1 OCCU Mas Enterprise, Owner, Chattanooga, Tennessee, USA
+1 FACT MH:I500034
+2 TYPE RIN
+1 _UID 599B14AC0C99E77AF66EB2FF8EFB5B34
+1 FAMS @F500013@
+1 SOUR @S500002@
+2 PAGE https://www.myheritage.com/research/record-10220-308681727/abraham-c-varghese-in-us-public-records-index
+2 QUAY 3
+2 DATA
+3 TEXT Abraham C VargheseBirth: Sep 1 1952Also known as: Vaughese Abraham&amp;n
+4 CONC bsp;&amp;nbsp;Possible relatives: &lt;br&gt;Name Birth&lt;br&gt;&lt;a&gt
+4 CONC ;James J Abraham&lt;/a&gt; &lt;br&gt;&lt;a&gt;James E Abraham&lt;/a&gt
+4 CONC ; Sep 1 1967&lt;br&gt;&lt;a&gt;Daise Abraham&lt;/a&gt; Sep 5 1981&lt;br&
+4 CONC gt;&lt;a&gt;Grace Abraham&lt;/a&gt; &lt;br&gt;&lt;a&gt;Roy Abraham&lt;/a
+4 CONC &gt; &lt;br&gt;&lt;a&gt;Laura Abraham&lt;/a&gt; &lt;br&gt;&lt;a&gt;Kunju
+4 CONC kunjamma P Georgekutty&lt;/a&gt; Sep 1 1976&lt;br&gt;&lt;a&gt;Varughes
+4 CONC e P Koshy&lt;/a&gt; Sep 1 1957&lt;br&gt;&lt;a&gt;Joseph K Varghese&lt;/a
+4 CONC &gt; 1948&lt;br&gt;&lt;a&gt;Philipose E Varghese&lt;/a&gt; June 15 1950&
+4 CONC lt;br&gt;&lt;a&gt;Sheeba Varghese&lt;/a&gt; May 3 1977&lt;br&gt;&lt;a&gt
+4 CONC ;Santhamma Varghese&lt;/a&gt; &lt;br&gt;&lt;a&gt;Lisiamma Vaughese&lt;/a
+4 CONC &gt; &amp;nbsp;&amp;nbsp;Residences: ResidenceDate7106 Igou Gap Rd, Chat
+4 CONC tanoogaTennessee 37421-3075, USADec 1 1998Show neighbors1507 Hickory Val
+4 CONC ley Rd, Apt G49, ChattanoogaTennessee 37421-5616, USABetween May 1 199
+4 CONC 9 and Apr 1 2001Show neighbors1507 Hickory Valley Rd, ChattanoogaTenness
+4 CONC ee 37421-5611, USAJuly 1 1999Show neighbors2501 Standifer Oaks Rd, Chatt
+4 CONC anoogaTennessee 37421-1487, USAMar 1 2002Show neighbors&amp;nbsp;&amp;nb
+4 CONC sp;Phone numbers: &lt;br&gt;Number Date&lt;br&gt;(423) 899-6879 Betwee
+4 CONC n Mar 15 2002 and Jan 1 2009&lt;br&gt;899-6879 Jan 1 2009&lt;br&gt;(423
+4 CONC ) 899-2604 Jan 1 2009&amp;nbsp;&amp;nbsp;Business associations: &lt;br&g
+4 CONC t;Title Business Place&lt;br&gt;Owner Mas Enterprise Chattanooga, Tennes
+4 CONC see, USA
+2 EVEN Record
+3 ROLE 10220:308681727:
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500035@ INDI
+1 NAME Daise /Abraham/
+2 GIVN Daise
+2 SURN Abraham
+1 SEX F
+1 BIRT
+2 DATE 5 SEP 1981
+2 PLAC Kerala, India
+1 EVEN 21 AUG 2017 12:18:43 GMT -0600 
+2 TYPE _UPD
+1 RESI
+2 PLAC 2501 Standifer Oaks Rd, Chattanooga, Tennessee 37421-1487, USA
+1 RESI
+2 EMAIL chippi82@@hotmail.com
+1 FACT MH:I500035
+2 TYPE RIN
+1 _UID 599B1500D6ED732A81FDF9F7971B9CF8
+1 FAMC @F500013@
+2 PEDI birth
+1 FAMS @F500014@
+1 SOUR @S500002@
+2 PAGE https://www.myheritage.com/research/record-10220-675209019/daise-abraham-in-us-public-records-index
+2 QUAY 3
+2 DATA
+3 TEXT Daise AbrahamBirth: Sep 5 1981&nbsp;&nbsp;Possible relatives: Name Birth
+4 CONC <a>Abraham C Varghese</a> Sep 1 1952<a>Santhamma Varghese</a> &nbsp;&nbs
+4 CONC p;Residences: ResidenceDate2501 Standifer Oaks Rd, ChattanoogaTennesse
+4 CONC e 37421-1487, USAShow neighbors
+2 EVEN Record
+3 ROLE 10220:675209019:
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500036@ INDI
+1 NAME Shiju /Kurian/
+2 GIVN Shiju
+2 SURN Kurian
+1 SEX M
+1 BIRT
+2 DATE 13 MAY 1980
+2 PLAC Kottayam, Kerala, India
+1 EVEN 21 AUG 2017 12:20:34 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500036
+2 TYPE RIN
+1 _UID 599B154FE9E625B0D4B7C45F3DA2610B
+1 FAMS @F500014@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500037@ INDI
+1 NAME Noah Abraham /Kurian/
+2 GIVN Noah Abraham
+2 SURN Kurian
+1 SEX M
+1 BIRT
+2 DATE 12 MAY 2010
+2 PLAC Chattanooga, TN
+1 EVEN 21 AUG 2017 12:17:06 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500037
+2 TYPE RIN
+1 _UID 599B15923428948A1B412F4466AFF6F9
+1 FAMC @F500014@
+2 PEDI birth
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500038@ INDI
+1 NAME Hannah Elsa /Kurian/
+2 GIVN Hannah Elsa
+2 SURN Kurian
+1 SEX F
+1 BIRT
+2 DATE 16 NOV 2008
+2 PLAC Chattanooga, TN
+1 EVEN 21 AUG 2017 12:17:48 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500038
+2 TYPE RIN
+1 _UID 599B15BBBB71ABDBDE7C308325CB90CF
+1 FAMC @F500014@
+2 PEDI birth
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500039@ INDI
+1 NAME Jacob /Alexaander/
+2 GIVN Jacob
+2 SURN Alexaander
+2 NPFX Dr.
+1 SEX M
+1 BIRT
+2 DATE 29 JAN 1989
+2 PLAC Anchal, Kerala, India
+1 EVEN 21 AUG 2017 16:21:48 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500039
+2 TYPE RIN
+1 _UID 599B4E2BDBF2ADD126504258E6C62D8C
+1 FAMC @F500008@
+2 PEDI birth
+1 FAMS @F500015@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500040@ INDI
+1 NAME Justin /Alexander/
+2 GIVN Justin
+2 SURN Alexander
+1 SEX M
+1 BIRT
+2 DATE 31 MAY 1992
+2 PLAC Jericho, New York
+1 EVEN 21 AUG 2017 16:19:57 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500040
+2 TYPE RIN
+1 _UID 599B4E7C9E67338C13045F5B3F555DB5
+1 FAMC @F500008@
+2 PEDI birth
+1 FAMS @F500043@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500041@ INDI
+1 NAME Jerin /Alexander/
+2 GIVN Jerin
+2 SURN Alexander
+1 SEX M
+1 BIRT
+2 DATE 19 MAR 1994
+2 PLAC Jericho, New York
+1 EVEN 21 AUG 2017 16:20:40 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500041
+2 TYPE RIN
+1 _UID 599B4EA86FB17B3275006D7BD4E25DD2
+1 FAMC @F500008@
+2 PEDI birth
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500042@ INDI
+1 NAME Winny /James/
+2 GIVN Winny
+2 SURN James
+1 NAME Winny /Alexander/
+2 TYPE married
+2 GIVN Winny
+2 SURN Alexander
+1 SEX F
+1 BIRT
+2 PLAC Kerala, India
+1 EVEN 13 JUN 2020 14:31:54 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500042
+2 TYPE RIN
+1 _UID 599B4FED9FAEB81C40A3873F92C636C2
+1 FAMC @F500045@
+2 PEDI birth
+1 FAMS @F500015@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500045@ INDI
+1 NAME Joyce /Abraham/
+2 GIVN Joyce
+2 SURN Abraham
+1 NAME Joyce /George/
+2 TYPE married
+2 GIVN Joyce
+2 SURN George
+1 SEX F
+1 BIRT
+2 PLAC Kerala, India
+1 EVEN 21 AUG 2017 17:07:54 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500045
+2 TYPE RIN
+1 _UID 599B59BA022A0695CDEE415F4856DBEC
+1 FAMC @F500013@
+2 PEDI birth
+1 FAMS @F500017@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500046@ INDI
+1 NAME Reji /George/
+2 GIVN Reji
+2 SURN George
+1 SEX M
+1 BIRT
+2 DATE June 3
+2 PLAC Kerala, India
+1 EVEN 21 AUG 2017 17:09:10 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500046
+2 TYPE RIN
+1 _UID 599B5A05D9506C6B7E3B8A707E6F1897
+1 FAMS @F500017@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500050@ INDI
+1 NAME Michael Philip /Varughese/
+2 GIVN Michael Philip
+2 SURN Varughese
+1 SEX M
+1 BIRT
+2 DATE 8 JUN 2013
+2 PLAC Mineola, NY
+1 EVEN 7 OCT 2017 20:19:21 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500050
+2 TYPE RIN
+1 _UID 59D97D1915EAD6B2DAB719837A9C138C
+1 FAMC @F500007@
+2 PEDI birth
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500051@ INDI
+1 NAME Kayla Susan /Varughese/
+2 GIVN Kayla Susan
+2 SURN Varughese
+1 SEX F
+1 BIRT
+2 DATE 31 MAR 2011
+2 PLAC Mineola, NY
+1 EVEN 7 OCT 2017 20:20:13 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500051
+2 TYPE RIN
+1 _UID 59D97D4D510067D6AB804675AB991E1F
+1 FAMC @F500007@
+2 PEDI birth
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500052@ INDI
+1 NAME Grace /Abraham/
+2 GIVN Grace
+2 SURN Abraham
+1 NAME Grace /Abraham/
+2 TYPE married
+2 GIVN Grace
+2 SURN Abraham
+1 SEX F
+1 BIRT
+2 DATE 8 OCT 1978
+2 PLAC Kerala, India
+1 EVEN 7 OCT 2017 20:34:53 GMT -0600 
+2 TYPE _UPD
+1 RESI
+2 DATE 1 APR 2001
+2 PLAC 1507 Hickory Valley Rd, Apt G49, Chattanooga, Tennessee 37421-5616, USA
+1 FACT MH:I500052
+2 TYPE RIN
+1 _UID 59D980BCCFA7EE228ACC77C1EFE94738
+1 FAMC @F500013@
+2 PEDI birth
+1 FAMS @F500019@
+1 SOUR @S500002@
+2 PAGE https://www.myheritage.com/research/record-10220-270978435/grace-abraham-in-us-public-records-index
+2 QUAY 3
+2 DATA
+3 TEXT Grace Abraham&amp;nbsp;&amp;nbsp;Possible relatives: &lt;br&gt;Name Birt
+4 CONC h&lt;br&gt;&lt;a&gt;Abraham C Varghese&lt;/a&gt; Sep 1 1952&lt;br&gt;&lt
+4 CONC ;a&gt;Santhamma Varghese&lt;/a&gt; &amp;nbsp;&amp;nbsp;Residences: Resid
+4 CONC enceDate1507 Hickory Valley Rd, Apt G49, ChattanoogaTennessee 37421-5616
+4 CONC , USAApr 1 2001Show neighbors
+2 EVEN Record
+3 ROLE 10220:270978435:
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500053@ INDI
+1 NAME Thomas /Eappen/
+2 GIVN Thomas
+2 SURN Eappen
+1 SEX M
+1 BIRT
+2 DATE 30 MAY 1977
+2 PLAC Kerala, India
+1 EVEN 7 OCT 2017 21:03:51 GMT -0600 
+2 TYPE _UPD
+1 OCCU Ambassodor to Jesus Christ.
+1 RESI
+2 PLAC Kottayam, Kerala, India
+1 FACT MH:I500053
+2 TYPE RIN
+1 _UID 59D980E068E8DE74A5524965B71C9368
+1 FAMC @F500023@
+2 PEDI birth
+1 FAMS @F500019@
+1 FAMS @F500021@
+1 SOUR @S500003@
+2 PAGE https://www.myheritage.com/research/record-40000-4617191/karickamelathethil-thomas-eappen-sr-in-geni-world-family-tree
+2 QUAY 3
+2 DATA
+3 DATE 7 OCT 2017
+3 TEXT Karickamelathethil Thomas Eappen, Sr.Gender: MaleFather: &lt;a&gt;K V Th
+4 CONC omas&lt;/a&gt;Mother: &lt;a&gt;Mary Thomas (born Pennamma)&lt;/a&gt;Spou
+4 CONC se: &lt;a&gt;&lt;Private&gt; Eapen&lt;/a&gt;Children: &lt;a&gt;Thomas Ea
+4 CONC ppen, Jr.&lt;/a&gt;, &lt;a&gt;Philip Eappen&lt;/a&gt;Siblings: &lt;a&gt;
+4 CONC &lt;Private&gt; Varughese&lt;/a&gt;, &lt;a&gt;(Rev)Kurian Thomas&lt;/a&g
+4 CONC t;, &lt;a&gt;Joseph Thomas&lt;/a&gt;, &lt;a&gt;&lt;Private&gt; Thomas&lt
+4 CONC ;/a&gt;
+2 EVEN Record
+3 ROLE 40000:4617191:
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500075@ INDI
+1 NAME Aria Alexa /Kapp/
+2 GIVN Aria Alexa
+2 SURN Kapp
+1 SEX F
+1 BIRT
+2 DATE 28 FEB 2015
+2 PLAC Denver, CO
+1 EVEN 7 OCT 2017 21:33:19 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500075
+2 TYPE RIN
+1 _UID 59D98E465440D93BE9DB5F079B8598DD
+1 FAMC @F500004@
+2 PEDI birth
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500111@ INDI
+1 NAME Micah Thomas /Kapp/
+2 GIVN Micah Thomas
+2 SURN Kapp
+1 SEX M
+1 BIRT
+2 DATE 22 JUN 2018
+2 PLAC Denver, CO
+1 EVEN 13 JUN 2020 13:43:17 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500111
+2 TYPE RIN
+1 _UID 5EE51E44CC28FFC545992E1F3A87E78D
+1 FAMC @F500004@
+2 PEDI birth
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500112@ INDI
+1 NAME Roshni /Thomas/
+2 GIVN Roshni
+2 SURN Thomas
+1 NAME Roshni /Alexander/
+2 TYPE married
+2 GIVN Roshni
+2 SURN Alexander
+1 SEX F
+1 EVEN 13 JUN 2020 13:46:19 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500112
+2 TYPE RIN
+1 _UID 5EE51EFB4FD751D2A805D240BD846EE1
+1 FAMS @F500043@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500113@ INDI
+1 NAME Eric /Sigler/
+2 GIVN Eric
+2 SURN Sigler
+2 NPFX Dr.
+1 SEX M
+1 EVEN 13 JUN 2020 13:52:12 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500113
+2 TYPE RIN
+1 _UID 5EE5205C315246DF8725D02D3A745639
+1 FAMS @F500044@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500114@ INDI
+1 NAME Eathan Stone /Sigler/
+2 GIVN Eathan Stone
+2 SURN Sigler
+1 SEX M
+1 BIRT
+2 DATE 24 NOV 2018
+2 PLAC New York
+1 EVEN 13 JUN 2020 13:53:52 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500114
+2 TYPE RIN
+1 _UID 5EE520BFA3D994DD850E1DC5AA4215B4
+1 FAMC @F500044@
+2 PEDI birth
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500115@ INDI
+1 NAME Layla /Sigler/
+2 GIVN Layla
+2 SURN Sigler
+1 SEX F
+1 BIRT
+2 DATE 30 MAR 2017
+2 PLAC Smithtown, NY
+1 EVEN 13 JUN 2020 13:57:42 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500115
+2 TYPE RIN
+1 _UID 5EE521A63C96189D0203547A0BDC50BA
+1 FAMC @F500044@
+2 PEDI birth
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500119@ INDI
+1 NAME Sosomma //
+2 GIVN Sosomma
+1 SEX F
+1 BIRT
+2 PLAC perakkal veedu, Niranam, Kerala, India
+1 DEAT
+2 PLAC perakkal veedu, Niranam, Kerala, India
+1 EVEN 6 DEC 2020 17:08:56 GMT -0600 
+2 TYPE _UPD
+1 BURI
+2 PLAC Chennithala, Kerala, India
+1 FACT MH:I500119
+2 TYPE RIN
+1 _UID 5F38459ABBE005B10EBFD2E1D22DB119
+1 FAMS @F500046@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500121@ INDI
+1 NAME P.G /Iype/
+2 GIVN P.G
+2 SURN Iype
+2 NICK Kunjappy
+1 SEX M
+1 BIRT
+2 PLAC Channapetta, Kerala, India
+1 DEAT Y
+1 EVEN 15 AUG 2020 15:31:49 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500121
+2 TYPE RIN
+1 _UID 5F3845FB52600878F2E611C4CC60A8AE
+1 FAMC @F500046@
+2 PEDI birth
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500134@ INDI
+1 NAME Chacko //
+2 GIVN Chacko
+1 SEX M
+1 BIRT
+2 PLAC Chennithala, Kerala, India
+1 DEAT
+2 DATE ABT 1919
+2 PLAC Kottayam, Kerala, India
+1 EVEN 16 AUG 2020 17:10:47 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500134
+2 TYPE RIN
+1 _UID 5F386B6DA97C5B6EE60C787FB524B10B
+1 FAMC @F500051@
+2 PEDI birth
+1 FAMS @F500046@
+1 NOTE @N0043@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500135@ INDI
+1 NAME Mundu veelil Kadavu  Brother 1 //
+2 GIVN Mundu veelil Kadavu  Brother 1
+1 SEX M
+1 DEAT Y
+1 EVEN 6 DEC 2020 21:33:19 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500135
+2 TYPE RIN
+1 _UID 5F386CAF2045C96822272494D540503C
+1 FAMC @F500059@
+2 PEDI birth
+1 FAMS @F500051@
+1 NOTE @N0044@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500136@ INDI
+1 NAME  //
+1 SEX F
+1 EVEN 15 AUG 2020 18:15:59 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500136
+2 TYPE RIN
+1 _UID 5F386CAF2C02196922272494D540503C
+1 FAMS @F500051@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500138@ INDI
+1 NAME Namboori (several generations ago) //
+2 GIVN Namboori (several generations ago)
+1 SEX M
+1 DEAT Y
+1 EVEN 6 DEC 2020 21:33:30 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500138
+2 TYPE RIN
+1 _UID 5F3875375B6856BE8D0C090ABCACA27E
+1 FAMC @F500053@
+2 PEDI birth
+1 FAMS @F500052@
+1 NOTE @N0045@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500142@ INDI
+1 NAME Keevarchan //
+2 GIVN Keevarchan
+2 NICK Kizhakkle Achen
+1 SEX M
+1 DEAT Y
+1 EVEN 15 DEC 2020 18:15:40 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500142
+2 TYPE RIN
+1 _UID 5F39B07284304DDC77B3647CD7291CE1
+1 FAMC @F500051@
+2 PEDI birth
+1 FAMS @F500061@
+1 NOTE @N0046@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500143@ INDI
+1 NAME Padinjar Mekkattu 1 //
+2 GIVN Padinjar Mekkattu 1
+1 SEX M
+1 DEAT Y
+1 EVEN 15 DEC 2020 17:22:09 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500143
+2 TYPE RIN
+1 _UID 5F41639623AAFF9E8A5E77D1228D9B69
+1 FAMC @F500059@
+2 PEDI birth
+1 FAMS @F500054@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500144@ INDI
+1 NAME  //
+1 SEX F
+1 EVEN 22 AUG 2020 13:27:34 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500144
+2 TYPE RIN
+1 _UID 5F41639633FA9F9F8A5E77D1228D9B69
+1 FAMS @F500052@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500145@ INDI
+1 NAME Edakku Mekkattu //
+2 GIVN Edakku Mekkattu
+1 SEX M
+1 EVEN 15 DEC 2020 17:21:49 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500145
+2 TYPE RIN
+1 _UID 5F416403AA3439D8CE08801492543259
+1 FAMC @F500059@
+2 PEDI birth
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500149@ INDI
+1 NAME Alapuza Mekkattu //
+2 GIVN Alapuza Mekkattu
+1 SEX M
+1 EVEN 15 DEC 2020 17:21:29 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500149
+2 TYPE RIN
+1 _UID 5F416445D62B11C4444765E34220942B
+1 FAMC @F500059@
+2 PEDI birth
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500150@ INDI
+1 NAME  //
+1 SEX M
+1 EVEN 5 SEP 2020 15:21:12 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500150
+2 TYPE RIN
+1 _UID 5F53F337E8328ABEE0D968C53943AA86
+1 FAMC @F500054@
+2 PEDI birth
+1 FAMS @F500055@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500151@ INDI
+1 NAME  //
+1 SEX F
+1 EVEN 5 SEP 2020 15:21:12 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500151
+2 TYPE RIN
+1 _UID 5F53F33802C9AABFE0D968C53943AA86
+1 FAMS @F500054@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500152@ INDI
+1 NAME Baby (mama) //
+2 GIVN Baby (mama)
+1 SEX F
+1 EVEN 5 SEP 2020 15:22:02 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500152
+2 TYPE RIN
+1 _UID 5F53F369EB5716F5C7B570DFF90176B0
+1 FAMC @F500055@
+2 PEDI birth
+1 NOTE @N0047@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500153@ INDI
+1 NAME  //
+1 SEX F
+1 EVEN 5 SEP 2020 15:22:02 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500153
+2 TYPE RIN
+1 _UID 5F53F36A027E96F6C7B570DFF90176B0
+1 FAMS @F500055@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500154@ INDI
+1 NAME Kunjumama //
+2 GIVN Kunjumama
+1 SEX F
+1 DEAT Y
+1 EVEN 5 SEP 2020 15:24:04 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500154
+2 TYPE RIN
+1 _UID 5F53F3E43D8946A1A31CDD2E8A691209
+1 FAMC @F500055@
+2 PEDI birth
+1 NOTE @N0048@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500155@ INDI
+1 NAME Ammini (maybe) //
+2 GIVN Ammini (maybe)
+1 SEX F
+1 EVEN 5 SEP 2020 15:26:27 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500155
+2 TYPE RIN
+1 _UID 5F53F4736EBD9CB3ACB35E56B5711DA5
+1 FAMC @F500055@
+2 PEDI birth
+1 NOTE @N0049@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500156@ INDI
+1 NAME Lilikutty //
+2 GIVN Lilikutty
+1 SEX F
+1 EVEN 5 SEP 2020 15:26:51 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500156
+2 TYPE RIN
+1 _UID 5F53F48B7D87792BB03045CA9AC59FBC
+1 FAMC @F500055@
+2 PEDI birth
+1 NOTE @N0050@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500157@ INDI
+1 NAME Kunju /Chandi/
+2 GIVN Kunju
+2 SURN Chandi
+1 SEX M
+1 DEAT Y
+1 EVEN 6 DEC 2020 21:34:03 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500157
+2 TYPE RIN
+1 _UID 5FCAE7B6D22DECEB6CB9470B98EB27D4
+1 FAMC @F500051@
+2 PEDI birth
+1 FAMS @F500056@
+1 NOTE @N0051@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500159@ INDI
+1 NAME koch unnuni //
+2 GIVN koch unnuni
+1 SEX M
+1 DEAT Y
+1 EVEN 6 DEC 2020 22:07:30 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500159
+2 TYPE RIN
+1 _UID 5FCAE803C5F4C76BE3F88E85C480A42B
+1 FAMC @F500056@
+2 PEDI birth
+1 FAMS @F500057@
+1 NOTE @N0052@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500160@ INDI
+1 NAME  //
+1 SEX F
+1 EVEN 4 DEC 2020 19:53:07 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500160
+2 TYPE RIN
+1 _UID 5FCAE803D06DB76CE3F88E85C480A42B
+1 FAMS @F500056@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500161@ INDI
+1 NAME Philip (Baby) //
+2 GIVN Philip (Baby)
+1 SEX M
+1 DEAT Y
+1 EVEN 6 DEC 2020 21:34:31 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500161
+2 TYPE RIN
+1 _UID 5FCAE827272EE426C8C7E9EE5FA59FE4
+1 FAMC @F500057@
+2 PEDI birth
+1 FAMS @F500063@
+1 NOTE @N0053@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500162@ INDI
+1 NAME  //
+1 SEX F
+1 EVEN 4 DEC 2020 19:53:43 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500162
+2 TYPE RIN
+1 _UID 5FCAE8272FD4A427C8C7E9EE5FA59FE4
+1 FAMS @F500057@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500163@ INDI
+1 NAME Tom /Mamman/
+2 GIVN Tom
+2 SURN Mamman
+1 SEX M
+1 EVEN 5 DEC 2020 23:24:59 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500163
+2 TYPE RIN
+1 _UID 5FCC6B2B419AD255DA1A5FC0B5CCD0B3
+1 FAMS @F500058@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @I500165@ INDI
+1 NAME Sunny //
+2 GIVN Sunny
+1 SEX M
+1 DEAT Y
+1 EVEN 6 DEC 2020 21:34:39 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500165
+2 TYPE RIN
+1 _UID 5FCD38B204425102EBDCEA674097AA39
+1 FAMC @F500057@
+2 PEDI birth
+1 NOTE @N0054@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500166@ INDI
+1 NAME Ponnamma //
+2 GIVN Ponnamma
+1 SEX F
+1 DEAT Y
+1 EVEN 6 DEC 2020 21:35:23 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500166
+2 TYPE RIN
+1 _UID 5FCD38C2D796BD3ABC55A5A30D8F4DB2
+1 FAMC @F500057@
+2 PEDI birth
+1 NOTE @N0055@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500167@ INDI
+1 NAME Padinjar Mekkatu 2 //
+2 GIVN Padinjar Mekkatu 2
+1 SEX M
+1 EVEN 15 DEC 2020 17:21:07 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500167
+2 TYPE RIN
+1 _UID 5FCD3D4C2731CE37245D8A7715175E76
+1 FAMC @F500059@
+2 PEDI birth
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500168@ INDI
+1 NAME Kottayam Mekkattu //
+2 GIVN Kottayam Mekkattu
+1 SEX M
+1 EVEN 15 DEC 2020 17:19:48 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500168
+2 TYPE RIN
+1 _UID 5FCD4AA73F466AA228DD76D16B041FD2
+1 FAMC @F500059@
+2 PEDI birth
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500170@ INDI
+1 NAME Chennithala Mekkattu Father //
+2 GIVN Chennithala Mekkattu Father
+1 SEX M
+1 DEAT Y
+1 EVEN 15 DEC 2020 17:25:54 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500170
+2 TYPE RIN
+1 _UID 5FCD528EE6F941C73A107F934F0C6782
+1 FAMC @F500052@
+2 PEDI birth
+1 FAMS @F500059@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500172@ INDI
+1 NAME Mundu Veelil Kaduvu Brother 2 //
+2 GIVN Mundu Veelil Kaduvu Brother 2
+1 SEX M
+1 DEAT Y
+1 EVEN 6 DEC 2020 21:33:46 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500172
+2 TYPE RIN
+1 _UID 5FCD547C37CE479A049B97F977CB965B
+1 FAMC @F500059@
+2 PEDI birth
+1 FAMS @F500060@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500173@ INDI
+1 NAME Kutti //
+2 GIVN Kutti
+1 SEX M
+1 DEAT Y
+1 EVEN 6 DEC 2020 17:02:22 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500173
+2 TYPE RIN
+1 _UID 5FCD54A51238D22086CD65A0E97BD822
+1 FAMC @F500060@
+2 PEDI birth
+1 FAMS @F500064@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500174@ INDI
+1 NAME  //
+1 SEX F
+1 EVEN 6 DEC 2020 16:01:09 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500174
+2 TYPE RIN
+1 _UID 5FCD54A51E44722186CD65A0E97BD822
+1 FAMS @F500060@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500175@ INDI
+1 NAME Unknown (Kezheke Chennithala) //
+2 GIVN Unknown (Kezheke Chennithala)
+1 SEX M
+1 DEAT Y
+1 EVEN 15 DEC 2020 17:33:05 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500175
+2 TYPE RIN
+1 _UID 5FCD54BE6EBB0074D5EFC54605DF394A
+1 FAMC @F500060@
+2 PEDI birth
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500176@ INDI
+1 NAME Chinnamma //
+2 GIVN Chinnamma
+1 SEX F
+1 BIRT
+2 DATE EST 1940
+2 PLAC Chennithala, Kerala, India
+1 EVEN 15 DEC 2020 18:37:18 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500176
+2 TYPE RIN
+1 _UID 5FCD56274FB6C6C37CF3ABBCC95B977A
+1 FAMC @F500061@
+2 PEDI birth
+1 NOTE @N0056@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500177@ INDI
+1 NAME  //
+1 SEX F
+1 EVEN 6 DEC 2020 16:07:35 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500177
+2 TYPE RIN
+1 _UID 5FCD56275B9F56C47CF3ABBCC95B977A
+1 FAMS @F500061@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500178@ INDI
+1 NAME Thankamma //
+2 GIVN Thankamma
+1 SEX F
+1 BIRT
+2 DATE EST 1948
+2 PLAC Chennithala, Kerala, India
+1 EVEN 15 DEC 2020 18:23:15 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500178
+2 TYPE RIN
+1 _UID 5FCD564E16CB00AD4F4524756072D166
+1 FAMC @F500061@
+2 PEDI birth
+1 NOTE @N0057@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500179@ INDI
+1 NAME Kunjamma //
+2 GIVN Kunjamma
+1 SEX F
+1 BIRT
+2 DATE EST 1951
+2 PLAC Chennithala, Kerala, India
+1 EVEN 15 DEC 2020 18:24:52 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500179
+2 TYPE RIN
+1 _UID 5FCD5672B1F24E8256072DD61A2E910D
+1 FAMC @F500061@
+2 PEDI birth
+1 FAMS @F500070@
+1 NOTE @N0058@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500180@ INDI
+1 NAME Papachen //
+2 GIVN Papachen
+1 SEX M
+1 DEAT Y
+1 EVEN 6 DEC 2020 21:34:17 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500180
+2 TYPE RIN
+1 _UID 5FCD5713174978163701F240210DF19A
+1 FAMC @F500056@
+2 PEDI birth
+1 FAMS @F500062@
+1 NOTE @N0059@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500181@ INDI
+1 NAME Unknown 1 //
+2 GIVN Unknown 1
+1 SEX F
+1 EVEN 6 DEC 2020 16:11:55 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500181
+2 TYPE RIN
+1 _UID 5FCD572B7D3E643D6098E55FEA3B303A
+1 FAMC @F500062@
+2 PEDI birth
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500182@ INDI
+1 NAME  //
+1 SEX F
+1 EVEN 6 DEC 2020 16:11:55 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500182
+2 TYPE RIN
+1 _UID 5FCD572B868AB43E6098E55FEA3B303A
+1 FAMS @F500062@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500183@ INDI
+1 NAME Unknown 2 //
+2 GIVN Unknown 2
+1 SEX F
+1 EVEN 6 DEC 2020 16:12:05 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500183
+2 TYPE RIN
+1 _UID 5FCD573494C4A5315193DFB009369F37
+1 FAMC @F500062@
+2 PEDI birth
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500184@ INDI
+1 NAME Unknown 3 //
+2 GIVN Unknown 3
+1 SEX F
+1 EVEN 6 DEC 2020 16:12:14 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500184
+2 TYPE RIN
+1 _UID 5FCD573E7364CB017B352903A6284A0F
+1 FAMC @F500062@
+2 PEDI birth
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500185@ INDI
+1 NAME Renny /Philip/
+2 GIVN Renny
+2 SURN Philip
+2 NPFX Rev.
+1 SEX M
+1 EVEN 6 DEC 2020 16:16:44 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500185
+2 TYPE RIN
+1 _UID 5FCD584BE0FB519A667E88749321C784
+1 FAMC @F500063@
+2 PEDI birth
+1 NOTE @N0060@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500186@ INDI
+1 NAME  //
+1 SEX F
+1 EVEN 6 DEC 2020 16:16:43 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500186
+2 TYPE RIN
+1 _UID 5FCD584BEB7FB19B667E88749321C784
+1 FAMS @F500063@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500187@ INDI
+1 NAME Thankama //
+2 GIVN Thankama
+1 SEX F
+1 DEAT Y
+1 EVEN 6 DEC 2020 16:20:02 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500187
+2 TYPE RIN
+1 _UID 5FCD58F1DE9F7FFFACB5AD7B3EE3B8F4
+1 FAMC @F500064@
+2 PEDI birth
+1 NOTE @N0061@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500188@ INDI
+1 NAME  //
+1 SEX F
+1 EVEN 6 DEC 2020 16:19:29 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500188
+2 TYPE RIN
+1 _UID 5FCD58F1E87C5001ACB5AD7B3EE3B8F4
+1 FAMS @F500064@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500189@ INDI
+1 NAME Kunju Kunju //
+2 GIVN Kunju Kunju
+1 SEX M
+1 DEAT Y
+1 EVEN 6 DEC 2020 16:20:27 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500189
+2 TYPE RIN
+1 _UID 5FCD592B66474A6572306B70AFB2C2A5
+1 FAMC @F500064@
+2 PEDI birth
+1 NOTE @N0062@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500190@ INDI
+1 NAME Thankachen //
+2 GIVN Thankachen
+1 SEX M
+1 DEAT Y
+1 EVEN 6 DEC 2020 16:21:03 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500190
+2 TYPE RIN
+1 _UID 5FCD594F906F692E5AED2BFCEC5A85D3
+1 FAMC @F500064@
+2 PEDI birth
+1 NOTE @N0063@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500191@ INDI
+1 NAME Mariamma //
+2 GIVN Mariamma
+1 SEX F
+1 DEAT Y
+1 EVEN 6 DEC 2020 21:55:29 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500191
+2 TYPE RIN
+1 _UID 5FCD59688FCC252F170431B0E0894F62
+1 FAMC @F500064@
+2 PEDI birth
+1 NOTE @N0064@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500192@ INDI
+1 NAME Johnny //
+2 GIVN Johnny
+1 SEX M
+1 DEAT Y
+1 EVEN 6 DEC 2020 16:21:55 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500192
+2 TYPE RIN
+1 _UID 5FCD598362DAAF9E842A713BEA2A576B
+1 FAMC @F500064@
+2 PEDI birth
+1 NOTE @N0065@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500193@ INDI
+1 NAME George //
+2 GIVN George
+1 SEX M
+1 BIRT
+2 DATE EST 1940
+1 EVEN 6 DEC 2020 16:22:59 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500193
+2 TYPE RIN
+1 _UID 5FCD59C331B96A2FD116ED1FEF570951
+1 FAMC @F500064@
+2 PEDI birth
+1 NOTE @N0066@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500194@ INDI
+1 NAME Baby //
+2 GIVN Baby
+1 SEX M
+1 DEAT Y
+1 EVEN 6 DEC 2020 16:24:21 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500194
+2 TYPE RIN
+1 _UID 5FCD5A155FD7B62EAF3DBFEBDE792B96
+1 FAMC @F500064@
+2 PEDI birth
+1 NOTE @N0067@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500195@ INDI
+1 NAME Mariamma (Ammini) /MG/
+2 GIVN Mariamma (Ammini)
+2 SURN MG
+1 NAME Mariamma (Ammini) /John/
+2 TYPE married
+2 GIVN Mariamma (Ammini)
+2 SURN John
+1 SEX F
+1 BIRT
+2 DATE 27 MAY 1942
+2 PLAC Chennithala, Kerala, India
+1 EVEN 6 DEC 2020 17:14:46 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500195
+2 TYPE RIN
+1 _UID 5FCD5B06907FA77D9AE71FA6D534619D
+1 FAMC @F500005@
+2 PEDI birth
+1 FAMS @F500065@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500196@ INDI
+1 NAME John /Daniel - Kunnakkara/
+2 GIVN John
+2 SURN Daniel - Kunnakkara
+1 SEX M
+1 BIRT
+2 DATE 14 APR 1933
+2 PLAC Kunnakkara, kottarakkara, Kerala, India
+1 DEAT
+2 DATE 18 SEP 2010
+2 PLAC Trivandrum, Kerala, India
+2 CAUS Esophageal cancer
+1 EVEN 6 DEC 2020 17:31:45 GMT -0600 
+2 TYPE _UPD
+1 BURI
+2 PLAC TPM Cemetery, Tvm, Kerala, India
+1 FACT MH:I500196
+2 TYPE RIN
+1 _UID 5FCD5B36C5D8D144B612EA7AA7FF0E03
+1 FAMC @F500067@
+2 PEDI birth
+1 FAMS @F500065@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500197@ INDI
+1 NAME Danny /John/
+2 GIVN Danny
+2 SURN John
+1 SEX M
+1 BIRT
+2 DATE 7 JUL 1970
+2 PLAC Kulathupu
+1 EVEN 6 DEC 2020 17:38:59 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500197
+2 TYPE RIN
+1 _UID 5FCD5B52CBBDFAB7D70740385A8754EB
+1 FAMC @F500065@
+2 PEDI birth
+1 FAMS @F500069@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500198@ INDI
+1 NAME Grace /John/
+2 GIVN Grace
+2 SURN John
+1 NAME Grace /Manchala/
+2 TYPE married
+2 GIVN Grace
+2 SURN Manchala
+1 SEX F
+1 BIRT
+2 DATE 31 JAN 1968
+2 PLAC India
+1 EVEN 6 DEC 2020 16:55:01 GMT -0600 
+2 TYPE _UPD
+1 RESI
+2 EMAIL graceraju@@gmail.com
+1 FACT MH:I500198
+2 TYPE RIN
+1 _UID 5FCD5B63702B4C1E73A0A1385C071BA8
+1 FAMC @F500065@
+2 PEDI birth
+1 FAMS @F500066@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500199@ INDI
+1 NAME Raju /Manchala/
+2 GIVN Raju
+2 SURN Manchala
+1 SEX M
+1 EVEN 6 DEC 2020 16:30:13 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500199
+2 TYPE RIN
+1 _UID 5FCD5B7519A09496EDDC9B8A4B90AEC5
+1 FAMS @F500066@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500201@ INDI
+1 NAME Glory /John/
+2 GIVN Glory
+2 SURN John
+1 NAME Glory /Kamat/
+2 TYPE married
+2 GIVN Glory
+2 SURN Kamat
+1 SEX F
+1 BIRT
+2 DATE 23 FEB 1969
+1 EVEN 6 DEC 2020 17:36:06 GMT -0600 
+2 TYPE _UPD
+1 RESI
+2 PLAC 40918 PO Box, Lafayette, Louisiana 70504-0001, USA
+1 RESI
+2 PLAC 3601 Dee St, Apt 104, Shreveport, Louisiana 71105-2627, USA
+1 RESI
+2 PLAC 1461 Wood Hollow Dr, Apt 29206, Houston, Texas 77057-1667, USA
+1 RESI
+2 DATE 1 JUL 2000
+2 PLAC 572364 PO Box, Houston, Texas 77257-2364, USA
+1 RESI
+2 DATE 1 AUG 2000
+2 PLAC 3600 E Simcoe St, Apt 28, Lafayette, Louisiana 70501-6550, USA
+1 RESI
+2 DATE 1 MAR 2001
+2 PLAC 2119 Manor Green Dr, Houston, Texas 77077-6330, USA
+1 FACT MH:I500201
+2 TYPE RIN
+1 _UID 5FCD6AE6A73575E9DE24BC970C3F5723
+1 FAMC @F500065@
+2 PEDI birth
+1 FAMS @F500068@
+1 SOUR @S500002@
+2 PAGE https://www.myheritage.com/research/record-10220-261804548/glory-kamat-in-us-public-records-index
+2 QUAY 3
+2 DATA
+3 TEXT Glory Kamat&amp;lt;br&amp;gt;Birth: Feb 23 1969&amp;lt;br&amp;gt;&amp;nb
+4 CONC sp;&amp;nbsp;Possible relatives: &lt;br&gt;Name Birth&lt;br&gt;&lt;a&gt;
+4 CONC Sunil S Kamat&lt;/a&gt; Apr 15 1968&lt;br&gt;&lt;a&gt;Neil Kamat&lt;/a&g
+4 CONC t; Apr 15 1968&amp;lt;br&amp;gt;&amp;nbsp;&amp;nbsp;Residences: Residenc
+4 CONC eDate572364 PO Box, HoustonTexas 77257-2364, USAJuly 1 2000Show neighbor
+4 CONC s3600 E Simcoe St, Apt 28, LafayetteLouisiana 70501-6550, USAAug 1 2000S
+4 CONC how neighbors2119 Manor Green Dr, HoustonTexas 77077-6330, USAMar 1 2001
+4 CONC Show neighbors1461 Wood Hollow Dr, Apt 29206, HoustonTexas 77057-1667, U
+4 CONC SAShow neighbors3601 Dee St, Apt 104, ShreveportLouisiana 71105-2627, US
+4 CONC AShow neighbors40918 PO Box, LafayetteLouisiana 70504-0001, USAShow neig
+4 CONC hbors&amp;lt;br&amp;gt;&amp;nbsp;&amp;nbsp;Phone numbers: &lt;br&gt;Numb
+4 CONC er Date&lt;br&gt;(337) 237-5884 Nov 13 2000&lt;br&gt;(832) 237-5884 No
+4 CONC v 13 2000&lt;br&gt;(281) 496-0325 Nov 15 2007&lt;br&gt;237-5884 Dec 5 20
+4 CONC 08
+2 EVEN Record
+3 ROLE 10220:261804548:
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500202@ INDI
+1 NAME Sunil S (Neil) /Kamat/
+2 GIVN Sunil S (Neil)
+2 SURN Kamat
+1 SEX M
+1 BIRT
+2 DATE 15 APR 1968
+2 PLAC Houston, TX, USA
+1 EVEN 13 DEC 2020 13:08:56 GMT -0600 
+2 TYPE _UPD
+1 RESI
+2 DATE 1 APR 1995
+2 PLAC 40918 PO Box, Lafayette, Louisiana 70504-0001, USA
+1 RESI
+2 DATE 1 OCT 1996
+2 PLAC 3601 Dee St, Apt 104, Shreveport, Louisiana 71105-2627, USA
+1 RESI
+2 DATE 1 JUL 2000
+2 PLAC 1461 Wood Hollow Dr, Apt 29206, Houston, Texas 77057-1667, USA
+1 RESI
+2 DATE 1 AUG 2000
+2 PLAC 572364 PO Box, Houston, Texas 77257-2364, USA
+1 RESI
+2 PLAC 2119 Manor Green Dr, Houston, Texas 77077-6330, USA
+1 RESI
+2 PLAC 3600 E Simcoe St, Apt 28, Lafayette, Louisiana 70501-6550, USA
+1 RESI
+2 PLAC 3600 E Simcoe St, Lafayette, Louisiana 70501-6563, USA
+1 RESI
+2 DATE ABT 2001
+2 PLAC 572364 PO Box, Houston, Texas 77257-2364, USA
+1 RESI
+2 DATE BET 1 DEC 2003 AND 1 MAR 2005
+2 PLAC 2119 Manor Green Dr, Houston, Texas 77077-6330, USA
+1 FACT MH:I500202
+2 TYPE RIN
+1 _UID 5FCD6B34B7958E6F0B1A566C3A804C3A
+1 FAMS @F500068@
+1 SOUR @S500002@
+2 PAGE https://www.myheritage.com/research/record-10220-261809353/sunil-s-kamat-in-us-public-records-index
+2 QUAY 3
+2 DATA
+3 DATE 13 DEC 2020
+3 TEXT Sunil S KamatBirth: Apr 15 1968Also known as: Kamat Neal, Kamat Neil, Ka
+4 CONC mat Susil&amp;nbsp;&amp;nbsp;Possible relatives: &lt;br&gt;Name Birth&lt
+4 CONC ;br&gt;&lt;a&gt;Neil Kamat&lt;/a&gt; Apr 15 1968&lt;br&gt;&lt;a&gt;Glor
+4 CONC y Kamat&lt;/a&gt; Feb 23 1969&amp;nbsp;&amp;nbsp;Residences: ResidenceDa
+4 CONC te40918 PO Box, LafayetteLouisiana 70504-0001, USAApr 1 1995Show neighbo
+4 CONC rs3601 Dee St, Apt 104, ShreveportLouisiana 71105-2627, USAOct 1 1996Sho
+4 CONC w neighbors1461 Wood Hollow Dr, Apt 29206, HoustonTexas 77057-1667, USAB
+4 CONC etween July 1 2000 and May 15 2005Show neighbors572364 PO Box, HoustonTe
+4 CONC xas 77257-2364, USAAug 1 2000Show neighbors2119 Manor Green Dr, HoustonT
+4 CONC exas 77077-6330, USAShow neighbors3600 E Simcoe St, Apt 28, LafayetteLou
+4 CONC isiana 70501-6550, USAShow neighbors3600 E Simcoe St, LafayetteLouisian
+4 CONC a 70501-6563, USAShow neighbors&amp;nbsp;&amp;nbsp;Phone numbers: &lt;br
+4 CONC &gt;Number Date&lt;br&gt;(318) 269-1795 Oct 1 1997&lt;br&gt;(318) 868-56
+4 CONC 77 July 18 2001&lt;br&gt;(281) 496-0325 Between Feb 25 2004 and Nov 15 2
+4 CONC 007&lt;br&gt;(832) 237-5884 May 15 2005&lt;br&gt;(281) 493-0797 Oct 15 2
+4 CONC 005&lt;br&gt;(337) 237-5884 Oct 12 2007&lt;br&gt;237-5884 Nov 15 2007
+2 EVEN Record
+3 ROLE 10220:261809353:
+1 SOUR @S500002@
+2 PAGE https://www.myheritage.com/research/record-10220-341156538/neil-kamat-in-us-public-records-index
+2 QUAY 3
+2 DATA
+3 TEXT Neil Kamat&amp;lt;br&amp;gt;Birth: Apr 15 1968&amp;lt;br&amp;gt;Also kno
+4 CONC wn as: Kamat Neal, Kamat Sunil&amp;lt;br&amp;gt;&amp;nbsp;&amp;nbsp;Poss
+4 CONC ible relatives: &lt;br&gt;Name Birth&lt;br&gt;&lt;a&gt;Sunil S Kamat&lt;
+4 CONC /a&gt; Apr 15 1968&lt;br&gt;&lt;a&gt;Glory Kamat&lt;/a&gt; Feb 23 1969&a
+4 CONC mp;lt;br&amp;gt;&amp;nbsp;&amp;nbsp;Residences: ResidenceDate3600 E Simc
+4 CONC oe St, Apt 28, LafayetteLouisiana 70501-6550, USAJune 1 1999Show neighbo
+4 CONC rs1461 Wood Hollow Dr, Apt 29206, HoustonTexas 77057-1667, USAJuly 1 200
+4 CONC 0Show neighbors572364 PO Box, HoustonTexas 77257-2364, USABetween Au
+4 CONC g 1 2000 and Feb 1 2001Show neighbors2119 Manor Green Dr, HoustonTexas 7
+4 CONC 7077-6330, USABetween Dec 1 2003 and Mar 1 2005Show neighbors3600 E Simc
+4 CONC oe St, LafayetteLouisiana 70501-6563, USAShow neighbors&amp;lt;br&amp;gt
+4 CONC ;&amp;nbsp;&amp;nbsp;Phone numbers: &lt;br&gt;Number Date&lt;br&gt;(281
+4 CONC ) 496-0325 Between Feb 25 2004 and Mar 1 2005&lt;br&gt;237-5884 Mar 1 20
+4 CONC 05&lt;br&gt;(281) 493-0797 Oct 15 2005&lt;br&gt;(337) 237-5884 Oct 15 20
+4 CONC 05
+2 EVEN Record
+3 ROLE 10220:341156538:
+1 SOUR @S500004@
+2 PAGE https://www.myheritage.com/research/record-10008-7467904/sunil-mukund-kamat-in-texas-births
+2 QUAY 3
+2 DATA
+3 TEXT Sunil Mukund Kamat&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth
+4 CONC : Apr 9 1968 - 
+2 EVEN Record
+3 ROLE 10008:7467904-:
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500203@ INDI
+1 NAME Lincy (Sally) /George/
+2 GIVN Lincy (Sally)
+2 SURN George
+1 NAME Lincy (Sally) /Dani/
+2 TYPE married
+2 GIVN Lincy (Sally)
+2 SURN Dani
+1 SEX F
+1 EVEN 6 DEC 2020 17:40:42 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500203
+2 TYPE RIN
+1 _UID 5FCD6BFA27CD7DE232DD42E4B26CE33A
+1 FAMS @F500069@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500204@ INDI
+1 NAME MG Annamma (Ponnamma) /Varghese/
+2 GIVN MG Annamma (Ponnamma)
+2 SURN Varghese
+1 SEX F
+1 BIRT
+2 DATE DEC 1945
+2 PLAC Channapetta, Kerala, India
+1 EVEN 6 DEC 2020 17:43:14 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500204
+2 TYPE RIN
+1 _UID 5FCD6C91BE438763DE001FF0990882A1
+1 FAMC @F500005@
+2 PEDI birth
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500205@ INDI
+1 NAME Samuel /Kamat/
+2 GIVN Samuel
+2 SURN Kamat
+1 SEX M
+1 BIRT
+2 DATE 23 FEB 1999
+2 PLAC Houston, TX, USA
+1 EVEN 6 DEC 2020 21:26:02 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500205
+2 TYPE RIN
+1 _UID 5FCDA0B3289C71ABD8215970AFC10F19
+1 FAMC @F500068@
+2 PEDI birth
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500206@ INDI
+1 NAME Jonah /Kamat/
+2 GIVN Jonah
+2 SURN Kamat
+1 SEX M
+1 BIRT
+2 DATE 3 DEC 2000
+2 PLAC Houston, TX, USA
+1 EVEN 6 DEC 2020 21:26:44 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500206
+2 TYPE RIN
+1 _UID 5FCDA0F3B55C2758D5E4142783B48B69
+1 FAMC @F500068@
+2 PEDI birth
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500207@ INDI
+1 NAME Ariel /Kamat/
+2 GIVN Ariel
+2 SURN Kamat
+1 SEX F
+1 BIRT
+2 DATE 23 MAY 2002
+2 PLAC Houston, TX, USA
+1 EVEN 6 DEC 2020 21:27:20 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500207
+2 TYPE RIN
+1 _UID 5FCDA117CD30DB1398DB70229745B570
+1 FAMC @F500068@
+2 PEDI birth
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500208@ INDI
+1 NAME Nathanael /Kamat/
+2 GIVN Nathanael
+2 SURN Kamat
+1 SEX M
+1 BIRT
+2 DATE 8 MAY 2004
+2 PLAC Houston, TX, USA
+1 EVEN 6 DEC 2020 21:27:55 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500208
+2 TYPE RIN
+1 _UID 5FCDA13AEA8B63B72AD31109106A06EC
+1 FAMC @F500068@
+2 PEDI birth
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500209@ INDI
+1 NAME Son 1 //
+2 GIVN Son 1
+1 SEX M
+1 EVEN 15 DEC 2020 18:37:48 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500209
+2 TYPE RIN
+1 _UID 5FD956DC8C95395AB2BCBAB1737F2365
+1 FAMC @F500070@
+2 PEDI birth
+1 SOUR @S500006@
+2 QUAY 0
+2 DATA
+3 TEXT <p>Santhamachi knows Kunjamma had 2 sons.&nbsp; We can probably get thei
+4 CONC r names from her.</p>
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @I500210@ INDI
+1 NAME Son 2 //
+2 GIVN Son 2
+1 SEX M
+1 EVEN 15 DEC 2020 18:38:00 GMT -0600 
+2 TYPE _UPD
+1 FACT MH:I500210
+2 TYPE RIN
+1 _UID 5FD956E85B2CE814C23D628906B5700C
+1 FAMC @F500070@
+2 PEDI birth
+1 SOUR @S500006@
+2 QUAY 0
+2 DATA
+3 TEXT <p>Santhamachi knows Kunjamma had 2 sons.&nbsp; We can probably get thei
+4 CONC r names from her.</p>
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @F500001@ FAM
+1 HUSB @I500001@
+1 WIFE @I500002@
+1 EVEN 20 AUG 2017 21:47:10 GMT -0600
+2 TYPE _UPD
+1 MARR
+2 DATE 12 NOV 1979
+2 PLAC kulathupuzha, kerala, India
+1 FACT MH:F500001
+2 TYPE RIN
+1 _UID 599A49AE40BA6199C4B08CE71E7AB559
+1 CHIL @I500003@
+1 CHIL @I500007@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @F500002@ FAM
+1 EVEN 20 AUG 2017 21:47:37 GMT -0600
+2 TYPE _UPD
+1 MARR Y
+1 FACT MH:F500002
+2 TYPE RIN
+1 _UID 599A49C8953F67B08ECC5DA2D2A764C4
+1 CHIL @I500002@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @F500003@ FAM
+1 HUSB @I500003@
+1 WIFE @I500006@
+1 EVEN 20 AUG 2017 21:59:13 GMT -0600
+2 TYPE _UPD
+1 MARR
+2 DATE 28 JUL 2007
+2 PLAC Bergenfield, Bergen, New Jersey, United States
+1 FACT MH:F500003
+2 TYPE RIN
+1 _UID 599A4C811BCF7829379EBE290FAB01D4
+1 CHIL @I500008@
+1 CHIL @I500009@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @F500004@ FAM
+1 HUSB @I500010@
+1 WIFE @I500007@
+1 EVEN 20 AUG 2017 22:18:05 GMT -0600
+2 TYPE _UPD
+1 MARR
+2 DATE 14 JUL 2012
+2 PLAC Chattanooga, TN
+1 FACT MH:F500004
+2 TYPE RIN
+1 _UID 599A50ED4AEA67DB206B37B1D754FBF1
+1 CHIL @I500075@
+1 CHIL @I500111@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @F500005@ FAM
+1 HUSB @I500011@
+1 WIFE @I500012@
+1 EVEN 20 AUG 2017 22:22:33 GMT -0600
+2 TYPE _UPD
+1 FACT MH:F500005
+2 TYPE RIN
+1 _UID 599A51F9B37D0C820912FE5D2CE29CCF
+1 CHIL @I500195@
+1 CHIL @I500204@
+1 CHIL @I500029@
+1 CHIL @I500033@
+1 CHIL @I500001@
+1 CHIL @I500014@
+1 CHIL @I500020@
+1 CHIL @I500013@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @F500006@ FAM
+1 HUSB @I500015@
+1 WIFE @I500014@
+1 EVEN 20 AUG 2017 22:47:11 GMT -0600
+2 TYPE _UPD
+1 MARR
+2 DATE 10 OCT 1977
+2 PLAC kulathupuzha, kerala, India
+1 FACT MH:F500006
+2 TYPE RIN
+1 _UID 599A57BF30872F7FB823D5D44C7E6ECC
+1 CHIL @I500019@
+1 CHIL @I500018@
+1 CHIL @I500016@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @F500007@ FAM
+1 HUSB @I500017@
+1 WIFE @I500016@
+1 EVEN 20 AUG 2017 22:48:19 GMT -0600
+2 TYPE _UPD
+1 MARR
+2 DATE 1 AUG 2009
+2 PLAC Holbrook, NY
+1 FACT MH:F500007
+2 TYPE RIN
+1 _UID 599A58032895696AAFA1DA6E94B663E1
+1 CHIL @I500051@
+1 CHIL @I500050@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @F500008@ FAM
+1 HUSB @I500021@
+1 WIFE @I500020@
+1 EVEN 20 AUG 2017 22:54:47 GMT -0600
+2 TYPE _UPD
+1 MARR
+2 DATE JAN 1988
+2 PLAC Kerala, India
+1 FACT MH:F500008
+2 TYPE RIN
+1 _UID 599A5987D3306E3B6B29ECA37381A4FE
+1 CHIL @I500039@
+1 CHIL @I500040@
+1 CHIL @I500041@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @F500009@ FAM
+1 EVEN 21 AUG 2017 08:49:05 GMT -0600
+2 TYPE _UPD
+1 FACT MH:F500009
+2 TYPE RIN
+1 _UID 599AE4D1E04991170AC66A1FF8638B1E
+1 CHIL @I500010@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @F500011@ FAM
+1 HUSB @I500013@
+1 WIFE @I500027@
+1 EVEN 21 AUG 2017 09:02:54 GMT -0600
+2 TYPE _UPD
+1 MARR
+2 DATE 8 AUG 1994
+2 PLAC kulathupuzha, kerala, India
+1 FACT MH:F500011
+2 TYPE RIN
+1 _UID 599AE80E9A590A908196E5AB26C7C832
+1 CHIL @I500026@
+1 CHIL @I500028@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @F500012@ FAM
+1 HUSB @I500030@
+1 WIFE @I500029@
+1 EVEN 21 AUG 2017 09:24:55 GMT -0600
+2 TYPE _UPD
+1 MARR
+2 PLAC Kerala, India
+1 FACT MH:F500012
+2 TYPE RIN
+1 _UID 599AED37893472A2D1C365C39D17C42D
+1 CHIL @I500031@
+1 CHIL @I500032@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @F500013@ FAM
+1 HUSB @I500034@
+1 WIFE @I500033@
+1 EVEN 21 AUG 2017 12:13:16 GMT -0600
+2 TYPE _UPD
+1 MARR
+2 DATE 6 NOV 1975
+2 PLAC kulathupuzha, kerala, India
+1 FACT MH:F500013
+2 TYPE RIN
+1 _UID 599B14AC160AE77BF66EB2FF8EFB5B34
+1 CHIL @I500052@
+1 CHIL @I500035@
+1 CHIL @I500045@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @F500014@ FAM
+1 HUSB @I500036@
+1 WIFE @I500035@
+1 EVEN 21 AUG 2017 12:16:00 GMT -0600
+2 TYPE _UPD
+1 MARR
+2 DATE 25 SEP 2006
+1 FACT MH:F500014
+2 TYPE RIN
+1 _UID 599B1550023E35B1D4B7C45F3DA2610B
+1 CHIL @I500038@
+1 CHIL @I500037@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @F500015@ FAM
+1 HUSB @I500039@
+1 WIFE @I500042@
+1 EVEN 21 AUG 2017 16:26:05 GMT -0600
+2 TYPE _UPD
+1 MARR
+2 DATE 17 JUN 2017
+2 PLAC Chattanooga, TN
+1 FACT MH:F500015
+2 TYPE RIN
+1 _UID 599B4FEDBBB0981D40A3873F92C636C2
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @F500017@ FAM
+1 HUSB @I500046@
+1 WIFE @I500045@
+1 EVEN 21 AUG 2017 17:09:09 GMT -0600
+2 TYPE _UPD
+1 MARR
+2 DATE 19 JUN 2000
+2 PLAC Kerala, India
+1 FACT MH:F500017
+2 TYPE RIN
+1 _UID 599B5A05E2B4DC6C7E3B8A707E6F1897
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @F500018@ FAM
+1 EVEN 7 OCT 2017 20:14:27 GMT -0600
+2 TYPE _UPD
+1 FACT MH:F500018
+2 TYPE RIN
+1 _UID 59D97BDB20EE9C910CB1547985F490D4
+1 CHIL @I500017@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @F500019@ FAM
+1 HUSB @I500053@
+1 WIFE @I500052@
+1 EVEN 7 OCT 2017 20:35:28 GMT -0600
+2 TYPE _UPD
+1 MARR
+2 DATE 2011
+2 PLAC Kerala, India
+1 FACT MH:F500019
+2 TYPE RIN
+1 _UID 59D980E084BB3E75A5524965B71C9368
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @F500021@ FAM
+1 HUSB @I500053@
+1 EVEN 7 OCT 2017 20:42:47 GMT -0600
+2 TYPE _UPD
+1 FACT MH:F500021
+2 TYPE RIN
+1 _UID 59D9813D6E999C078967CA4DF906F337
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @F500023@ FAM
+1 EVEN 7 OCT 2017 21:04:57 GMT -0600
+2 TYPE _UPD
+1 FACT MH:F500023
+2 TYPE RIN
+1 _UID 59D9878717629BDD19ACDC8145AE6311
+1 CHIL @I500053@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @F500024@ FAM
+1 EVEN 7 OCT 2017 21:12:49 GMT -0600
+2 TYPE _UPD
+1 MARR Y
+1 FACT MH:F500024
+2 TYPE RIN
+1 _UID 59D989770E014F9B845F15CEE879FBEE
+1 CHIL @I500006@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @F500028@ FAM
+1 EVEN 7 OCT 2017 21:35:43 GMT -0600
+2 TYPE _UPD
+1 FACT MH:F500028
+2 TYPE RIN
+1 _UID 59D98EFFDFED528D585ED030B5243B00
+1 CHIL @I500030@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @F500043@ FAM
+1 HUSB @I500040@
+1 WIFE @I500112@
+1 EVEN 13 JUN 2020 13:46:19 GMT -0600
+2 TYPE _UPD
+1 MARR
+2 DATE 4 AUG 2018
+2 PLAC Chattanooga, TN
+1 FACT MH:F500043
+2 TYPE RIN
+1 _UID 5EE51EFB5B5A31D3A805D240BD846EE1
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @F500044@ FAM
+1 HUSB @I500113@
+1 WIFE @I500031@
+1 EVEN 13 JUN 2020 13:52:12 GMT -0600
+2 TYPE _UPD
+1 MARR
+2 DATE 30 APR 2016
+2 PLAC New York
+1 FACT MH:F500044
+2 TYPE RIN
+1 _UID 5EE5205C3E6C86E08725D02D3A745639
+1 CHIL @I500115@
+1 CHIL @I500114@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @F500045@ FAM
+1 EVEN 13 JUN 2020 14:31:54 GMT -0600
+2 TYPE _UPD
+1 FACT MH:F500045
+2 TYPE RIN
+1 _UID 5EE529AA9A45BDBB8EBB50383A737C9D
+1 CHIL @I500042@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @F500046@ FAM
+1 HUSB @I500134@
+1 WIFE @I500119@
+1 EVEN 15 AUG 2020 18:10:37 GMT -0600
+2 TYPE _UPD
+1 FACT MH:F500046
+2 TYPE RIN
+1 _UID 5F38459ACADDF5B20EBFD2E1D22DB119
+1 CHIL @I500012@
+1 CHIL @I500121@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @F500047@ FAM
+1 EVEN 15 AUG 2020 18:56:30 GMT -0600
+2 TYPE _UPD
+1 MARR
+2 PLAC Ammacheri, Thiruvalla, Kerala, India
+1 FACT MH:F500047
+2 TYPE RIN
+1 _UID 5F3845BF3F897CA9EFACCC7CFF934F23
+1 CHIL @I500011@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @F500048@ FAM
+1 EVEN 15 AUG 2020 17:42:32 GMT -0600
+2 TYPE _UPD
+1 FACT MH:F500048
+2 TYPE RIN
+1 _UID 5F38647C2F806D252424C9D2049F7D4E
+1 CHIL @I500027@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @F500051@ FAM
+1 HUSB @I500135@
+1 WIFE @I500136@
+1 EVEN 15 AUG 2020 18:15:59 GMT -0600
+2 TYPE _UPD
+1 FACT MH:F500051
+2 TYPE RIN
+1 _UID 5F386CAF3310096A22272494D540503C
+1 CHIL @I500142@
+1 CHIL @I500157@
+1 CHIL @I500134@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @F500052@ FAM
+1 HUSB @I500138@
+1 WIFE @I500144@
+1 EVEN 22 AUG 2020 13:27:34 GMT -0600
+2 TYPE _UPD
+1 FACT MH:F500052
+2 TYPE RIN
+1 _UID 5F387537668236BF8D0C090ABCACA27E
+1 CHIL @I500170@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @F500053@ FAM
+1 EVEN 22 AUG 2020 13:29:42 GMT -0600
+2 TYPE _UPD
+1 FACT MH:F500053
+2 TYPE RIN
+1 _UID 5F416416735B47E202A60BF3C3F59F69
+1 CHIL @I500138@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @F500054@ FAM
+1 HUSB @I500143@
+1 WIFE @I500151@
+1 EVEN 5 SEP 2020 15:21:12 GMT -0600
+2 TYPE _UPD
+1 FACT MH:F500054
+2 TYPE RIN
+1 _UID 5F53F3380C6ECAC0E0D968C53943AA86
+1 CHIL @I500150@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @F500055@ FAM
+1 HUSB @I500150@
+1 WIFE @I500153@
+1 EVEN 5 SEP 2020 15:22:02 GMT -0600
+2 TYPE _UPD
+1 FACT MH:F500055
+2 TYPE RIN
+1 _UID 5F53F36A08F0A6F7C7B570DFF90176B0
+1 CHIL @I500152@
+1 CHIL @I500154@
+1 CHIL @I500155@
+1 CHIL @I500156@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @F500056@ FAM
+1 HUSB @I500157@
+1 WIFE @I500160@
+1 EVEN 4 DEC 2020 19:53:07 GMT -0600
+2 TYPE _UPD
+1 FACT MH:F500056
+2 TYPE RIN
+1 _UID 5FCAE803D673D76DE3F88E85C480A42B
+1 CHIL @I500159@
+1 CHIL @I500180@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @F500057@ FAM
+1 HUSB @I500159@
+1 WIFE @I500162@
+1 EVEN 4 DEC 2020 19:53:43 GMT -0600
+2 TYPE _UPD
+1 FACT MH:F500057
+2 TYPE RIN
+1 _UID 5FCAE82735620428C8C7E9EE5FA59FE4
+1 CHIL @I500161@
+1 CHIL @I500165@
+1 CHIL @I500166@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @F500058@ FAM
+1 HUSB @I500026@
+1 WIFE @I500163@
+1 EVEN 5 DEC 2020 23:24:59 GMT -0600
+2 TYPE _UPD
+1 MARR
+2 DATE 6 DEC 2020
+1 FACT MH:F500058
+2 TYPE RIN
+1 _UID 5FCC6B2B6F1DB256DA1A5FC0B5CCD0B3
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @F500059@ FAM
+1 HUSB @I500170@
+1 EVEN 6 DEC 2020 15:53:33 GMT -0600
+2 TYPE _UPD
+1 FACT MH:F500059
+2 TYPE RIN
+1 _UID 5FCD52DDB9EB77D6F776FCC69B0BDCCB
+1 CHIL @I500168@
+1 CHIL @I500172@
+1 CHIL @I500135@
+1 CHIL @I500143@
+1 CHIL @I500145@
+1 CHIL @I500149@
+1 CHIL @I500167@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @F500060@ FAM
+1 HUSB @I500172@
+1 WIFE @I500174@
+1 EVEN 6 DEC 2020 16:01:09 GMT -0600
+2 TYPE _UPD
+1 FACT MH:F500060
+2 TYPE RIN
+1 _UID 5FCD54A526A6622286CD65A0E97BD822
+1 CHIL @I500173@
+1 CHIL @I500175@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @F500061@ FAM
+1 HUSB @I500142@
+1 WIFE @I500177@
+1 EVEN 6 DEC 2020 16:07:35 GMT -0600
+2 TYPE _UPD
+1 FACT MH:F500061
+2 TYPE RIN
+1 _UID 5FCD5627666F66C57CF3ABBCC95B977A
+1 CHIL @I500176@
+1 CHIL @I500178@
+1 CHIL @I500179@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @F500062@ FAM
+1 HUSB @I500180@
+1 WIFE @I500182@
+1 EVEN 6 DEC 2020 16:11:55 GMT -0600
+2 TYPE _UPD
+1 FACT MH:F500062
+2 TYPE RIN
+1 _UID 5FCD572B8C58943F6098E55FEA3B303A
+1 CHIL @I500181@
+1 CHIL @I500183@
+1 CHIL @I500184@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @F500063@ FAM
+1 HUSB @I500161@
+1 WIFE @I500186@
+1 EVEN 6 DEC 2020 16:16:43 GMT -0600
+2 TYPE _UPD
+1 FACT MH:F500063
+2 TYPE RIN
+1 _UID 5FCD584BF2CBE19C667E88749321C784
+1 CHIL @I500185@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @F500064@ FAM
+1 HUSB @I500173@
+1 WIFE @I500188@
+1 EVEN 6 DEC 2020 16:19:29 GMT -0600
+2 TYPE _UPD
+1 FACT MH:F500064
+2 TYPE RIN
+1 _UID 5FCD58F1EE981002ACB5AD7B3EE3B8F4
+1 CHIL @I500193@
+1 CHIL @I500187@
+1 CHIL @I500189@
+1 CHIL @I500190@
+1 CHIL @I500191@
+1 CHIL @I500192@
+1 CHIL @I500194@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @F500065@ FAM
+1 HUSB @I500196@
+1 WIFE @I500195@
+1 EVEN 6 DEC 2020 16:29:10 GMT -0600
+2 TYPE _UPD
+1 MARR
+2 DATE 25 NOV 1965
+2 PLAC kulathupuzha, kerala, India
+1 FACT MH:F500065
+2 TYPE RIN
+1 _UID 5FCD5B36D0289145B612EA7AA7FF0E03
+1 CHIL @I500198@
+1 CHIL @I500201@
+1 CHIL @I500197@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @F500066@ FAM
+1 HUSB @I500199@
+1 WIFE @I500198@
+1 EVEN 6 DEC 2020 16:30:13 GMT -0600
+2 TYPE _UPD
+1 MARR Y
+1 FACT MH:F500066
+2 TYPE RIN
+1 _UID 5FCD5B752320C497EDDC9B8A4B90AEC5
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @F500067@ FAM
+1 EVEN 6 DEC 2020 16:54:58 GMT -0600
+2 TYPE _UPD
+1 FACT MH:F500067
+2 TYPE RIN
+1 _UID 5FCD61420F812CB7C7ACAA5A0B27ED30
+1 CHIL @I500196@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @F500068@ FAM
+1 HUSB @I500202@
+1 WIFE @I500201@
+1 EVEN 6 DEC 2020 17:37:24 GMT -0600
+2 TYPE _UPD
+1 MARR
+2 DATE 20 MAY 1993
+2 PLAC Trv, Kerala, India
+1 FACT MH:F500068
+2 TYPE RIN
+1 _UID 5FCD6B34C1B75E700B1A566C3A804C3A
+1 CHIL @I500205@
+1 CHIL @I500206@
+1 CHIL @I500207@
+1 CHIL @I500208@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @F500069@ FAM
+1 HUSB @I500197@
+1 WIFE @I500203@
+1 EVEN 6 DEC 2020 17:40:42 GMT -0600
+2 TYPE _UPD
+1 MARR
+2 DATE EST 9 MAY 2000
+2 PLAC kulathupuzha, kerala, India
+1 FACT MH:F500069
+2 TYPE RIN
+1 _UID 5FCD6BFA309B6DE332DD42E4B26CE33A
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @F500070@ FAM
+1 WIFE @I500179@
+1 EVEN 15 DEC 2020 18:37:48 GMT -0600
+2 TYPE _UPD
+1 FACT MH:F500070
+2 TYPE RIN
+1 _UID 5FD956DC970BF95BB2BCBAB1737F2365
+1 CHIL @I500209@
+1 CHIL @I500210@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @S500001@ SOUR
+1 TITL BillionGraves
+1 PUBL MyHeritage
+1 NOTE @N0074@
+1 NOTE @N0075@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @S500002@ SOUR
+1 TITL U.S. Public Records Index
+1 PUBL MyHeritage
+1 NOTE @N0076@
+1 NOTE @N0077@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @S500003@ SOUR
+1 TITL Geni World Family Tree
+1 PUBL MyHeritage
+1 NOTE @N0078@
+1 NOTE @N0079@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @S500004@ SOUR
+1 TITL Texas Births, 1926 - 1995
+1 PUBL MyHeritage
+1 NOTE @N0080@
+1 NOTE @N0081@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @S500005@ SOUR
+1 TITL New Jersey Marriage License Index, 1915-2016
+1 PUBL MyHeritage
+1 NOTE @N0082@
+1 NOTE @N0083@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:09
+0 @S500006@ SOUR
+1 TITL Personal
+1 NOTE @N0084@
+1 NOTE @N0085@
+1 CHAN
+2 DATE 16 DEC 2020
+3 TIME 03:11:10
+0 @N0001@ NOTE Chacko M AlexanderBirth: Dec 1 1953Marriage: Nov 12 1979Death: Ma
+1 CONC r 25 2014Burial: Mount Olivet Cemetery, East Ridge, Tennessee, United St
+1 CONC ates
+0 @N0002@ NOTE Chacko Mekkat AlexanderGender: MaleBirth: Dec 1 1953Death: Mar 25 2
+1 CONC 014Spouse: &lt;a&gt;&lt;Private&gt; Alexander&lt;/a&gt;Children: &lt;a&g
+1 CONC t;&lt;Private&gt; Kapp (born Alexander)&lt;/a&gt;, &lt;a&gt;Anish Alexan
+1 CONC der&lt;/a&gt;
+0 @N0003@ NOTE <p>He was born in Chennithala Kerala.&nbsp; He migrated to Kulathup
+1 CONC uza with his immediate familiy when he was about 4.&nbsp; He was activ
+1 CONC e in the local Congress political Party.&nbsp; He joined his father in t
+1 CONC he whole sale stores business, and local farming.&nbsp; After he was mar
+1 CONC ried, she spent about 1 year working in Saudi Arabia.&nbsp; He attende
+1 CONC d the TPM church.&nbsp; In 1989, he migrated to NY, united states wher
+1 CONC e he worked for a company called MSI.&nbsp; In 1994, he migrated to Chat
+1 CONC tanooga, Tennesee where he resided.&nbsp; He worked odd jobs including p
+1 CONC arterning in an Indian groccery store business.&nbsp; He suffered with D
+1 CONC iabetes and heart health problems, undergoing 2 open heart issues.</p>
+0 @N0004@ NOTE Anish M AlexanderBirth: July 14 1981&amp;nbsp;&amp;nbsp;Possible re
+1 CONC latives: &lt;br&gt;Name Birth&lt;br&gt;&lt;a&gt;Anila M Alexander&lt;/a&
+1 CONC gt; May 9 1983&lt;br&gt;&lt;a&gt;Leelamma C Alexander&lt;/a&gt; &lt;br&g
+1 CONC t;&lt;a&gt;Alexander Makkat Checko&lt;/a&gt; Dec 15 1953&amp;nbsp;&amp;n
+1 CONC bsp;Residences: ResidenceDate7106 Igou Gap Rd, ChattanoogaTennessee 3742
+1 CONC 1-3075, USAAug 1 1999Show neighbors&amp;nbsp;&amp;nbsp;Phone numbers: &l
+1 CONC t;br&gt;Number Date&lt;br&gt;(423) 899-1935 Aug 1 1999
+0 @N0005@ NOTE Anish Makkat Alexander &amp; Ligy Varkey&amp;lt;br&amp;gt;Marriage
+1 CONC : July 28 2007 - Bergenfield, Bergen, New Jersey, United States&amp;lt;b
+1 CONC r&amp;gt;Spouse 1: Ligy Varkey&amp;lt;br&amp;gt;Spouse 2: Anish Makkat A
+1 CONC lexander&amp;lt;br&amp;gt;Line: 19
+0 @N0006@ NOTE Anish Makkat Alexander &amp; Ligy Varkey&amp;lt;br&amp;gt;Marriage
+1 CONC : July 28 2007 - Bergenfield, Bergen, New Jersey, United States&amp;lt;b
+1 CONC r&amp;gt;Spouse 1: Ligy Varkey&amp;lt;br&amp;gt;Spouse 2: Anish Makkat A
+1 CONC lexander&amp;lt;br&amp;gt;Line: 19
+0 @N0007@ NOTE Anila M AlexanderBirth: May 9 1983&nbsp;&nbsp;Possible relatives: N
+1 CONC ame Birth<a>Anish M Alexander</a> July 14 1981<a>M Chacko Alexander</a
+1 CONC > <a>Alexander Makkat Checko</a> Dec 15 1953&nbsp;&nbsp;Residences: Resi
+1 CONC denceDate839 Fuller Glen Cir, ChattanoogaTennessee 37421-4468, USAShow n
+1 CONC eighbors
+0 @N0008@ NOTE Keith T KappBirth: Dec 1 1977Also known as: Capp T Keith, Kays T Ke
+1 CONC ith&nbsp;&nbsp;Possible relatives: Name Birth<a>Matt Kapp</a> Aug 10 198
+1 CONC 0<a>Jason Thomas Kapp</a> Aug 20 1982<a>Thomas V Kappamamuttil</a> Feb 2
+1 CONC 8 1949<a>Susie Kappamamuttil</a> Jan 9 1950&nbsp;&nbsp;Residences: Resid
+1 CONC enceDate2059 S Gray Dr, LakewoodColorado 80227-2505, USADec 20 1995Sho
+1 CONC w neighbors1718 30th St, Apt 307, GreeleyColorado 80631-8623, USASep 1 1
+1 CONC 999Show neighbors3341 35th St, GreeleyColorado 80634-9405, USAAug 1 2000
+1 CONC Show neighbors2730 W 22nd St, GreeleyColorado 80634-6506, USAOct 1 2000S
+1 CONC how neighbors815 Cherry St, Apt 301, DenverColorado 80220-4006, USAJun
+1 CONC e 15 2004Show neighbors&nbsp;&nbsp;Phone numbers: Number Date(970) 336-0
+1 CONC 897 July 17 2001980-6559 June 15 2004(303) 980-6559 Nov 15 2007
+0 @N0009@ NOTE <p>He came to Kulathupuza with his older brother because they wer
+1 CONC e giving land grants for cheap, and to start a business.&nbsp; His olde
+1 CONC r brother, Aype, started a business and it became pretty successful.&nbs
+1 CONC p; He came to Kulathupuza and started a business.&nbsp; The town mistoo
+1 CONC k him for his brother, and he also got the nickname Aype.&nbsp; He wa
+1 CONC s a member of the CPM/TPM church until his passing.</p>
+0 @N0010@ NOTE Daisy VargheseBirth: May 20 1957&amp;nbsp;&amp;nbsp;Possible relati
+1 CONC ves: &lt;br&gt;Name Birth&lt;br&gt;&lt;a&gt;Rajukutty N Varughese&lt;/a&
+1 CONC gt; Nov 23 1954&amp;nbsp;&amp;nbsp;Residences: ResidenceDate37 Berkshir
+1 CONC e Rd, HicksvilleNew York 11801-3351, USAFeb 23 2004Show neighbors
+0 @N0011@ NOTE Rajukutty N Varughese&amp;lt;br&amp;gt;Birth: Nov 23 1954&amp;lt;br
+1 CONC &amp;gt;Also known as: Barughese Raju, Joegy Raju, Joicey Raju, Varghes
+1 CONC e Rajukutty&amp;lt;br&amp;gt;&amp;nbsp;&amp;nbsp;Possible relatives: &lt
+1 CONC ;br&gt;Name Birth&lt;br&gt;&lt;a&gt;Joicey Raju&lt;/a&gt; Mar 15 1986&lt
+1 CONC ;br&gt;&lt;a&gt;Joegy Raju&lt;/a&gt; Oct 3 1988&lt;br&gt;&lt;a&gt;Georg
+1 CONC e V Varghese&lt;/a&gt; Jan 21 1949&lt;br&gt;&lt;a&gt;Daisy Varghese&lt;/
+1 CONC a&gt; May 20 1957&lt;br&gt;&lt;a&gt;Shaji Varghese&lt;/a&gt; Sep 1 1972&
+1 CONC lt;br&gt;&lt;a&gt;Gracyamna Varghese&lt;/a&gt; Sep 1 1978&lt;br&gt;&lt;a
+1 CONC &gt;L Varughese&lt;/a&gt; 1959&lt;br&gt;&lt;a&gt;Daisy M Varughese&lt;/a
+1 CONC &gt; Sep 1 1963&lt;br&gt;&lt;a&gt;Shaji N Varughese&lt;/a&gt; Apr 25 196
+1 CONC 5&lt;br&gt;&lt;a&gt;Gracy S Varughese&lt;/a&gt; 1969&lt;br&gt;&lt;a&gt;D
+1 CONC aisy Varughese&lt;/a&gt; Sep 1 1975&lt;br&gt;&lt;a&gt;Chacko P Varughese
+1 CONC &lt;/a&gt; &amp;lt;br&amp;gt;&amp;nbsp;&amp;nbsp;Residences: ResidenceDa
+1 CONC te9015 215th Pl, Queens VillageNew York 11428-1229, USADec 1 1994Show ne
+1 CONC ighbors8605 Brandermill Ln, ChattanoogaTennessee 37421-2736, USAMay 1 20
+1 CONC 01Show neighbors37 Berkshire Rd, HicksvilleNew York 11801-3351, USASep 2
+1 CONC 0 2001Show neighbors341 Richard Ave, Apt A4, HicksvilleNew York 11801-12
+1 CONC 10, USAShow neighbors&amp;lt;br&amp;gt;&amp;nbsp;&amp;nbsp;Phone numbers
+1 CONC : &lt;br&gt;Number Date&lt;br&gt;(718) 217-5224 Dec 1 2002&lt;br&gt;(516
+1 CONC ) 433-0803 Between Feb 25 2004 and Jan 10 2009&lt;br&gt;217-5224 Jan 1
+1 CONC 0 2009&lt;br&gt;(516) 639-2167 Jan 10 2009
+0 @N0012@ NOTE Binu P VarugheseBirth: Oct 15 1980&amp;nbsp;&amp;nbsp;Possible rela
+1 CONC tives: &lt;br&gt;Name Birth&lt;br&gt;&lt;a&gt;Varughese K Phillips&lt;/a
+1 CONC &gt; Nov 12 1952&lt;br&gt;&lt;a&gt;Sosamma K Varughese&lt;/a&gt; May 2
+1 CONC 5 1959&lt;br&gt;&lt;a&gt;Betty Varughese&lt;/a&gt; Jan 16 1983&lt;br&gt;
+1 CONC &lt;a&gt;Etal Philip Varughese&lt;/a&gt; &lt;br&gt;&lt;a&gt;Varkey Varug
+1 CONC hese&lt;/a&gt; &amp;nbsp;&amp;nbsp;Residences: ResidenceDate192 Dogwoo
+1 CONC d Rd, RoslynNew York 11576-3015, USAShow neighbors
+0 @N0016@ NOTE Suresh D GeorgeBirth: May 24 1947Also known as: Sosamma George, Sur
+1 CONC esh D George&nbsp;&nbsp;Possible relatives: Name Birth<a>Suresh Sosamm
+1 CONC a George</a> Aug 23 1949<a>Ann D George</a> Sep 27 1979<a>Andrew D Georg
+1 CONC e</a> Sep 24 1986<a>Elizabeth George</a> <a>George K Joseph</a> June 1
+1 CONC 5 1940&nbsp;&nbsp;Residences: ResidenceDate5 Prose St, HicksvilleNew Yor
+1 CONC k 11801-2315, USAApr 1 1985Show neighbors26 Summit St, HicksvilleNew Yor
+1 CONC k 11801-3355, USAOct 1 1986Show neighbors4255 Colden St, Apt 16P, Flushi
+1 CONC ngNew York 11355-3946, USAShow neighbors&nbsp;&nbsp;Phone numbers: Numbe
+1 CONC r Date(516) 433-6410 Between Oct 1 1986 and Jan 1 2009(718) 463-7209 No
+1 CONC v 13 2000(718) 961-2970 Nov 13 2000463-7209 Jan 1 2009(516) 931-1513 Ja
+1 CONC n 1 2009
+0 @N0017@ NOTE Ann D GeorgeBirth: Sep 27 1979Also known as: Goerge Ann&nbsp;&nbsp;
+1 CONC Possible relatives: Name Birth<a>Suresh D George</a> May 24 1947<a>Sures
+1 CONC h Sosamma George</a> Aug 23 1949<a>Andrew D George</a> Sep 24 1986&nbsp;
+1 CONC &nbsp;Residences: ResidenceDate22 Chestnut St, BinghamtonNew York 13905-
+1 CONC 4418, USABetween Aug 1 2000 and May 1 2001Show neighbors24 Clarke St, Bi
+1 CONC nghamtonNew York 13905-3613, USABetween Aug 1 2000 and Aug 1 2002Show ne
+1 CONC ighbors24 Clark Ave, BinghamtonNew York 13901-1207, USAJune 1 2002Show n
+1 CONC eighbors348 E 89th St, Apt 3W, New YorkNew York 10128-4510, USAApr 9 200
+1 CONC 4Show neighbors26 Summit St, HicksvilleNew York 11801-3355, USAShow neig
+1 CONC hbors348 E 89th St, New YorkNew York 10128-4502, USAShow neighbors&nbsp;
+1 CONC &nbsp;Phone numbers: Number Date(607) 722-6679 Between Aug 1 2000 and Au
+1 CONC g 1 2002(212) 996-0167 Between Apr 9 2004 and Mar 25 2008(212) 722-667
+1 CONC 9 Oct 1 2004722-6679 Mar 25 2008
+0 @N0018@ NOTE Andrew D GeorgeBirth: Sep 24 1986Also known as: George D Ann&nbsp;&
+1 CONC nbsp;Possible relatives: Name Birth<a>Suresh D George</a> May 24 1947<a>
+1 CONC Suresh Sosamma George</a> Aug 23 1949<a>Ann D George</a> Sep 27 1979&nbs
+1 CONC p;&nbsp;Residences: ResidenceDate26 Summit St, HicksvilleNew York 11801-
+1 CONC 3355, USANov 2 2004Show neighbors&nbsp;&nbsp;Phone numbers: Number Date(
+1 CONC 516) 433-6410 Nov 15 2007
+0 @N0019@ NOTE Santhamma VargheseAlso known as: Abraham Santhamma&amp;nbsp;&amp;nb
+1 CONC sp;Possible relatives: &lt;br&gt;Name Birth&lt;br&gt;&lt;a&gt;Daise Abra
+1 CONC ham&lt;/a&gt; Sep 5 1981&lt;br&gt;&lt;a&gt;Grace Abraham&lt;/a&gt; &lt;b
+1 CONC r&gt;&lt;a&gt;Abraham C Varghese&lt;/a&gt; Sep 1 1952&amp;nbsp;&amp;nbsp
+1 CONC ;Residences: ResidenceDate1507 Hickory Valley Rd, Apt G49, ChattanoogaTe
+1 CONC nnessee 37421-5616, USABetween Apr 1 2000 and Mar 1 2001Show neighbors25
+1 CONC 01 Standifer Oaks Rd, ChattanoogaTennessee 37421-1487, USAMar 1 2002Sho
+1 CONC w neighbors&amp;nbsp;&amp;nbsp;Phone numbers: &lt;br&gt;Number Date&lt;b
+1 CONC r&gt;(423) 899-6879 Jan 1 2009
+0 @N0020@ NOTE Abraham C VargheseBirth: Sep 1 1952Also known as: Vaughese Abraham&
+1 CONC amp;nbsp;&amp;nbsp;Possible relatives: &lt;br&gt;Name Birth&lt;br&gt;&lt
+1 CONC ;a&gt;James J Abraham&lt;/a&gt; &lt;br&gt;&lt;a&gt;James E Abraham&lt;/a
+1 CONC &gt; Sep 1 1967&lt;br&gt;&lt;a&gt;Daise Abraham&lt;/a&gt; Sep 5 1981&lt;
+1 CONC br&gt;&lt;a&gt;Grace Abraham&lt;/a&gt; &lt;br&gt;&lt;a&gt;Roy Abraham&lt
+1 CONC ;/a&gt; &lt;br&gt;&lt;a&gt;Laura Abraham&lt;/a&gt; &lt;br&gt;&lt;a&gt;Ku
+1 CONC njukunjamma P Georgekutty&lt;/a&gt; Sep 1 1976&lt;br&gt;&lt;a&gt;Varughe
+1 CONC se P Koshy&lt;/a&gt; Sep 1 1957&lt;br&gt;&lt;a&gt;Joseph K Varghese&lt;/
+1 CONC a&gt; 1948&lt;br&gt;&lt;a&gt;Philipose E Varghese&lt;/a&gt; June 15 1950
+1 CONC &lt;br&gt;&lt;a&gt;Sheeba Varghese&lt;/a&gt; May 3 1977&lt;br&gt;&lt;a&g
+1 CONC t;Santhamma Varghese&lt;/a&gt; &lt;br&gt;&lt;a&gt;Lisiamma Vaughese&lt;/
+1 CONC a&gt; &amp;nbsp;&amp;nbsp;Residences: ResidenceDate7106 Igou Gap Rd, Cha
+1 CONC ttanoogaTennessee 37421-3075, USADec 1 1998Show neighbors1507 Hickory Va
+1 CONC lley Rd, Apt G49, ChattanoogaTennessee 37421-5616, USABetween May 1 199
+1 CONC 9 and Apr 1 2001Show neighbors1507 Hickory Valley Rd, ChattanoogaTenness
+1 CONC ee 37421-5611, USAJuly 1 1999Show neighbors2501 Standifer Oaks Rd, Chatt
+1 CONC anoogaTennessee 37421-1487, USAMar 1 2002Show neighbors&amp;nbsp;&amp;nb
+1 CONC sp;Phone numbers: &lt;br&gt;Number Date&lt;br&gt;(423) 899-6879 Betwee
+1 CONC n Mar 15 2002 and Jan 1 2009&lt;br&gt;899-6879 Jan 1 2009&lt;br&gt;(423
+1 CONC ) 899-2604 Jan 1 2009&amp;nbsp;&amp;nbsp;Business associations: &lt;br&g
+1 CONC t;Title Business Place&lt;br&gt;Owner Mas Enterprise Chattanooga, Tennes
+1 CONC see, USA
+0 @N0021@ NOTE Daise AbrahamBirth: Sep 5 1981&nbsp;&nbsp;Possible relatives: Nam
+1 CONC e Birth<a>Abraham C Varghese</a> Sep 1 1952<a>Santhamma Varghese</a> &nb
+1 CONC sp;&nbsp;Residences: ResidenceDate2501 Standifer Oaks Rd, ChattanoogaTen
+1 CONC nessee 37421-1487, USAShow neighbors
+0 @N0025@ NOTE Grace Abraham&amp;nbsp;&amp;nbsp;Possible relatives: &lt;br&gt;Nam
+1 CONC e Birth&lt;br&gt;&lt;a&gt;Abraham C Varghese&lt;/a&gt; Sep 1 1952&lt;br&
+1 CONC gt;&lt;a&gt;Santhamma Varghese&lt;/a&gt; &amp;nbsp;&amp;nbsp;Residences
+1 CONC : ResidenceDate1507 Hickory Valley Rd, Apt G49, ChattanoogaTennessee 374
+1 CONC 21-5616, USAApr 1 2001Show neighbors
+0 @N0026@ NOTE Karickamelathethil Thomas Eappen, Sr.Gender: MaleFather: &lt;a&gt;
+1 CONC K V Thomas&lt;/a&gt;Mother: &lt;a&gt;Mary Thomas (born Pennamma)&lt;/a&g
+1 CONC t;Spouse: &lt;a&gt;&lt;Private&gt; Eapen&lt;/a&gt;Children: &lt;a&gt;Tho
+1 CONC mas Eappen, Jr.&lt;/a&gt;, &lt;a&gt;Philip Eappen&lt;/a&gt;Siblings: &lt
+1 CONC ;a&gt;&lt;Private&gt; Varughese&lt;/a&gt;, &lt;a&gt;(Rev)Kurian Thomas&l
+1 CONC t;/a&gt;, &lt;a&gt;Joseph Thomas&lt;/a&gt;, &lt;a&gt;&lt;Private&gt; Tho
+1 CONC mas&lt;/a&gt;
+0 @N0043@ NOTE <p>They were cloth weavers, and farming.&nbsp; He weaved cloths an
+1 CONC d lunki.&nbsp;&nbsp;</p>e died when apachen was about 1 year old.&nbsp;&
+1 CONC nbsp;</p>as burried in Kottayam.&nbsp; There were some Mekkattu family i
+1 CONC n Kottayam that buried him.&nbsp; We believe this is the Kottayam Mekkat
+1 CONC tu family of Sunil.&nbsp;&nbsp;</p>untu Veelil Kadavu group</p>llow.&nbs
+1 CONC p; Ammini Amachi verified that this was because his brother Kuttu then s
+1 CONC tarted stealing stuff their house.&nbsp;&nbsp;</p>
+0 @N0044@ NOTE <p>He was of the oldest children 2 brothers that settled in Mundy V
+1 CONC elel Kadavu.</p>
+0 @N0045@ NOTE <p>There was a king who ruled Mavilakara, Kerala.&nbsp; He had thi
+1 CONC s person employed as part of his court.&nbsp; However, there was some di
+1 CONC sagreement between the two.&nbsp; It had something to do with the king'
+1 CONC s crown.&nbsp; The phrase was "Kereedum Marchu or Theripichu"&nbsp; Whic
+1 CONC h translats to the crown was thrown, etc.&nbsp; It could be the littera
+1 CONC l meaning which means maybe this individual either did something to th
+1 CONC e crown, or the figurative term which means the individual tried to over
+1 CONC throw the crown&nbsp;&nbsp;</p>&nbsp; We are not sure when this conversi
+1 CONC on happend.&nbsp; Several stories have confirmed that the women he marri
+1 CONC ed was Marthomite.&nbsp; The conversion may have happend before marriag
+1 CONC e or as part of marriage.&nbsp; But it is strongly believed that the wom
+1 CONC en was not hindu, but came from a Marthoma family.&nbsp; As part of hi
+1 CONC s conversion, his person was disowned from the hindu side.</p>/p> mentio
+1 CONC ned close to the family tree and were in relation to the where our famil
+1 CONC y lived.</p>
+0 @N0046@ NOTE <p>Continued to live next to <span id="docs-internal-guid-c1c1f194-
+1 CONC 7fff-1664-38c2-a80ff1a4d13e" style="font-size: 11pt; font-family: Arial
+1 CONC ; color: #000000; background-color: transparent; font-weight: 400; font-
+1 CONC style: normal; font-variant: normal; text-decoration: none; vertical-ali
+1 CONC gn: baseline; white-space: pre-wrap;">Muntu veelil Kadavu.</span></p></p
+1 CONC >
+0 @N0047@ NOTE <p>Went to Kottayam</p>
+0 @N0048@ NOTE <p>Went to punaloor</p>
+0 @N0049@ NOTE <p>2nd oldest of the two sisters.&nbsp; Not sure of the name.</p>
+0 @N0050@ NOTE <p>Went to Punaloor</p>
+0 @N0051@ NOTE <p>He was the 2nd out of the 3 sons</p>
+0 @N0052@ NOTE <p>Oldest of 2 brothers</p>
+0 @N0053@ NOTE <p>2nd out of 3 siblings.&nbsp; Baby could be a nick name.&nbsp; H
+1 CONC e was some kind of officer for the government. (Amminiammachi)&nbsp;</p>
+0 @N0054@ NOTE <p>Oldest out of 3 siblings&nbsp;</p>
+0 @N0055@ NOTE <p>Youngest out of 3 siblings.</p>
+0 @N0056@ NOTE <p>80+ years old as of 12/6</p>
+0 @N0057@ NOTE <p>72+ years as of 12/2020</p>
+0 @N0058@ NOTE <p>68-70 years old as of 12/20</p>nbsp; Avarachen uncle and Santham
+1 CONC machi has been to their house in Coimbatore after minimama was born.</p>
+0 @N0059@ NOTE <p>Youngest out of 2 brothers</p>
+0 @N0060@ NOTE <p>He is the Marthoma achen in Chandanakavu, Kulathupuza, Kerala a
+1 CONC s of 2020.&nbsp; He has more information about this side of the family.&
+1 CONC nbsp; Amminiammachi gave us his phone number.</p>
+0 @N0061@ NOTE <p>Oldest of 7</p>
+0 @N0062@ NOTE <p>2nd of 7 children</p>
+0 @N0063@ NOTE <p>3rd of 7 children</p>
+0 @N0064@ NOTE <p>4th of 7 children</p>
+0 @N0065@ NOTE <p>5th of 7 children</p>
+0 @N0066@ NOTE <p>Still living and 80-82 years old as of 2020.</p>
+0 @N0067@ NOTE <p>7th out of 7 children</p>
+0 @N0068@ NOTE Glory Kamat&amp;lt;br&amp;gt;Birth: Feb 23 1969&amp;lt;br&amp;gt;&a
+1 CONC mp;nbsp;&amp;nbsp;Possible relatives: &lt;br&gt;Name Birth&lt;br&gt;&lt;
+1 CONC a&gt;Sunil S Kamat&lt;/a&gt; Apr 15 1968&lt;br&gt;&lt;a&gt;Neil Kamat&lt
+1 CONC ;/a&gt; Apr 15 1968&amp;lt;br&amp;gt;&amp;nbsp;&amp;nbsp;Residences: Res
+1 CONC idenceDate572364 PO Box, HoustonTexas 77257-2364, USAJuly 1 2000Show nei
+1 CONC ghbors3600 E Simcoe St, Apt 28, LafayetteLouisiana 70501-6550, USAAu
+1 CONC g 1 2000Show neighbors2119 Manor Green Dr, HoustonTexas 77077-6330, USAM
+1 CONC ar 1 2001Show neighbors1461 Wood Hollow Dr, Apt 29206, HoustonTexas 7705
+1 CONC 7-1667, USAShow neighbors3601 Dee St, Apt 104, ShreveportLouisiana 71105
+1 CONC -2627, USAShow neighbors40918 PO Box, LafayetteLouisiana 70504-0001, USA
+1 CONC Show neighbors&amp;lt;br&amp;gt;&amp;nbsp;&amp;nbsp;Phone numbers: &lt;b
+1 CONC r&gt;Number Date&lt;br&gt;(337) 237-5884 Nov 13 2000&lt;br&gt;(832) 237-
+1 CONC 5884 Nov 13 2000&lt;br&gt;(281) 496-0325 Nov 15 2007&lt;br&gt;237-5884 D
+1 CONC ec 5 2008
+0 @N0069@ NOTE Sunil S KamatBirth: Apr 15 1968Also known as: Kamat Neal, Kamat Nei
+1 CONC l, Kamat Susil&amp;nbsp;&amp;nbsp;Possible relatives: &lt;br&gt;Name Bir
+1 CONC th&lt;br&gt;&lt;a&gt;Neil Kamat&lt;/a&gt; Apr 15 1968&lt;br&gt;&lt;a&gt;
+1 CONC Glory Kamat&lt;/a&gt; Feb 23 1969&amp;nbsp;&amp;nbsp;Residences: Residen
+1 CONC ceDate40918 PO Box, LafayetteLouisiana 70504-0001, USAApr 1 1995Show nei
+1 CONC ghbors3601 Dee St, Apt 104, ShreveportLouisiana 71105-2627, USAOct 1 199
+1 CONC 6Show neighbors1461 Wood Hollow Dr, Apt 29206, HoustonTexas 77057-1667
+1 CONC , USABetween July 1 2000 and May 15 2005Show neighbors572364 PO Box, Hou
+1 CONC stonTexas 77257-2364, USAAug 1 2000Show neighbors2119 Manor Green Dr, Ho
+1 CONC ustonTexas 77077-6330, USAShow neighbors3600 E Simcoe St, Apt 28, Lafaye
+1 CONC tteLouisiana 70501-6550, USAShow neighbors3600 E Simcoe St, LafayetteLou
+1 CONC isiana 70501-6563, USAShow neighbors&amp;nbsp;&amp;nbsp;Phone numbers: &
+1 CONC lt;br&gt;Number Date&lt;br&gt;(318) 269-1795 Oct 1 1997&lt;br&gt;(318) 8
+1 CONC 68-5677 July 18 2001&lt;br&gt;(281) 496-0325 Between Feb 25 2004 and No
+1 CONC v 15 2007&lt;br&gt;(832) 237-5884 May 15 2005&lt;br&gt;(281) 493-0797 Oc
+1 CONC t 15 2005&lt;br&gt;(337) 237-5884 Oct 12 2007&lt;br&gt;237-5884 Nov 15 2
+1 CONC 007
+0 @N0070@ NOTE Neil Kamat&amp;lt;br&amp;gt;Birth: Apr 15 1968&amp;lt;br&amp;gt;Als
+1 CONC o known as: Kamat Neal, Kamat Sunil&amp;lt;br&amp;gt;&amp;nbsp;&amp;nbsp
+1 CONC ;Possible relatives: &lt;br&gt;Name Birth&lt;br&gt;&lt;a&gt;Sunil S Kama
+1 CONC t&lt;/a&gt; Apr 15 1968&lt;br&gt;&lt;a&gt;Glory Kamat&lt;/a&gt; Feb 23 1
+1 CONC 969&amp;lt;br&amp;gt;&amp;nbsp;&amp;nbsp;Residences: ResidenceDate360
+1 CONC 0 E Simcoe St, Apt 28, LafayetteLouisiana 70501-6550, USAJune 1 1999Sho
+1 CONC w neighbors1461 Wood Hollow Dr, Apt 29206, HoustonTexas 77057-1667, USAJ
+1 CONC uly 1 2000Show neighbors572364 PO Box, HoustonTexas 77257-2364, USABetwe
+1 CONC en Aug 1 2000 and Feb 1 2001Show neighbors2119 Manor Green Dr, HoustonTe
+1 CONC xas 77077-6330, USABetween Dec 1 2003 and Mar 1 2005Show neighbors360
+1 CONC 0 E Simcoe St, LafayetteLouisiana 70501-6563, USAShow neighbors&amp;lt;b
+1 CONC r&amp;gt;&amp;nbsp;&amp;nbsp;Phone numbers: &lt;br&gt;Number Date&lt;br&
+1 CONC gt;(281) 496-0325 Between Feb 25 2004 and Mar 1 2005&lt;br&gt;237-5884 M
+1 CONC ar 1 2005&lt;br&gt;(281) 493-0797 Oct 15 2005&lt;br&gt;(337) 237-5884 Oc
+1 CONC t 15 2005
+0 @N0071@ NOTE Sunil Mukund Kamat&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;B
+1 CONC irth: Apr 9 1968 - 
+0 @N0072@ NOTE <p>Santhamachi knows Kunjamma had 2 sons.&nbsp; We can probably ge
+1 CONC t their names from her.</p>
+0 @N0073@ NOTE <p>Santhamachi knows Kunjamma had 2 sons.&nbsp; We can probably ge
+1 CONC t their names from her.</p>
+0 @N0074@ NOTE <A href="http://www.billiongraves.com/" target="_blank">www.billion
+1 CONC graves.com
+0 @N0075@ NOTE Records not imported into SOUR (source) Gramps ID S500001:
+1 CONT 
+1 CONT Line ignored as not understood                                      Lin
+1 CONC e  3639: 1 _UPD 20 AUG 2017 21:56:00 GMT -0600 
+1 CONT 
+0 @N0076@ NOTE Birth information may be included for those residents born primaril
+1 CONC y between 1900 and 1990. The original sources are not available.
+0 @N0077@ NOTE Records not imported into SOUR (source) Gramps ID S500002:
+1 CONT 
+1 CONT Line ignored as not understood                                      Lin
+1 CONC e  3646: 1 _UPD 21 AUG 2017 09:29:28 GMT -0600 
+1 CONT 
+0 @N0078@ NOTE The Geni World Family Tree is found on <A href="http://www.geni.com
+1 CONC " target="_blank">www.Geni.com</a>. Geni is owned and operated by MyHeri
+1 CONC tage.
+0 @N0079@ NOTE Records not imported into SOUR (source) Gramps ID S500003:
+1 CONT 
+1 CONT Line ignored as not understood                                      Lin
+1 CONC e  3653: 1 _UPD 7 OCT 2017 20:37:00 GMT -0600 
+1 CONT 
+0 @N0080@ NOTE Birth records represent one of the key primary sources for family i
+1 CONC nformation, typically being issued within days of a birth and containin
+1 CONC g the parents' names at a minimum. Many times they contain additional pa
+1 CONC rental details including places of birth, ages, number of children and r
+1 CONC eligious affiliation for baptism and christening records.
+0 @N0081@ NOTE Records not imported into SOUR (source) Gramps ID S500004:
+1 CONT 
+1 CONT Line ignored as not understood                                      Lin
+1 CONC e  3660: 1 _UPD 13 DEC 2020 13:07:35 GMT -0600 
+1 CONT 
+0 @N0082@ NOTE <p>This content comes from an index to marriages by brides and a se
+1 CONC parate index to marriages by grooms. The records published here have, i
+1 CONC n most cases, been joined to unify the information of the brides and th
+1 CONC e grooms in their respective marriages. The collection has a small numbe
+1 CONC r of records which could not be matched and joined together. The origina
+1 CONC l indexes also contain some duplicate records with variant spellings o
+1 CONC f given names and/or surnames. For example, a groom might have three ind
+1 CONC ex records for the same marriage where his given name is spelled as “Dom
+1 CONC inic”, “Dominick C”, or ���Dominic C” and in these cases duplicate recor
+1 CONC ds will exist in this published collection as they exist in the origina
+1 CONC l indexes.</p><p>The below paragraphs are provided to assist in understa
+1 CONC nding the information listed in the “State File No.” and “Place of Marri
+1 CONC age” columns, as shown on the index images. Please note that MyHeritag
+1 CONC e has used this information to correctly interpret and display these fie
+1 CONC lds in this collection. </p><p>From 1915 to 1919 the State File Number r
+1 CONC epresents the volume and certificate number. The first two digits repres
+1 CONC ent the volume number. The last three digits represent the certificate n
+1 CONC umber. The certificate number resets each year. The Place of Marriage co
+1 CONC de is not listed in this year range. The original records are availabl
+1 CONC e on microfilm at the New Jersey State Archive and are organized alphabe
+1 CONC tically by the groom’s surname and the year of marriage.</p><p>From 192
+1 CONC 0 to 1929 the index displays a two digit number which represents the cou
+1 CONC nty where the marriage took place. The original records are available o
+1 CONC n microfilm at the New Jersey State Archive and can be requested with th
+1 CONC e Groom’s surname and the year of marriage.</p><p>From 1930 to 1964 th
+1 CONC e place code is written as a four to six-digit number. In order to fin
+1 CONC d the code you truncate the last one to two digits making this a four-di
+1 CONC git number. You can find a key for some of these codes <a href="https://
+1 CONC cf.myheritageimages.com/records/original/usa_vitals/new_jersey/marriages
+1 CONC _1915-2016/municodes.pdf" target="_blank">here</a>. The original record
+1 CONC s are available on microfilm at the New Jersey State Archive.</p><p>Fro
+1 CONC m 1965 to 1984 the place code is written as a four-digit number. You ca
+1 CONC n find a key for some of these codes <a href="https://cf.myheritageimage
+1 CONC s.com/records/original/usa_vitals/new_jersey/marriages_1915-2016/municod
+1 CONC es.pdf" target="_blank">here</a>. The original records are available o
+1 CONC n microfilm at the New Jersey State Archive. </p><p>From 1985 to curren
+1 CONC t day they stopped using place codes and started writing the places ou
+1 CONC t in an abbreviated form. The original records are available on microfil
+1 CONC m at the New Jersey State Archive.</p><p>Beginning September 21, 2013 sa
+1 CONC me sex marriage was legalized in New Jersey. Records included in this co
+1 CONC llection reflect this change.</p><p>Marriage records are an important ge
+1 CONC nealogical record as they not only record information about the bride, t
+1 CONC he groom, and their residence when the marriage occurred but often conta
+1 CONC in additional information such as birth dates, birthplaces, occupations
+1 CONC , and whether single, widowed, or divorced at the time of the marriage
+1 CONC . Often a marriage license will also contain information about the paren
+1 CONC ts of the bride and groom including the parents’ names and birthplaces
+1 CONC . Copies of the original marriage records found in this index can be req
+1 CONC uested from the <a href="https://wwwnet-dos.state.nj.us/DOS_ArchivesDBPo
+1 CONC rtal/index.aspx" target="_blank">State Archive.</a></p><p>Thanks to Debb
+1 CONC ie Hadley, a New Jersey genealogist, for the research provided. You ca
+1 CONC n reach her through her website, <a href="http://www.bringoutyerdead.com
+1 CONC /" target="_blank">bringoutyerdead.com.</a></p>
+0 @N0083@ NOTE Records not imported into SOUR (source) Gramps ID S500005:
+1 CONT 
+1 CONT Line ignored as not understood                                      Lin
+1 CONC e  3668: 1 _UPD 13 DEC 2020 13:10:33 GMT -0600 
+1 CONT 
+0 @N0084@ NOTE Santhamachi knows Kunjamma had 2 sons.&nbsp; We can probably get th
+1 CONC eir names from her.
+0 @N0085@ NOTE Records not imported into SOUR (source) Gramps ID S500006:
+1 CONT 
+1 CONT Line ignored as not understood                                      Lin
+1 CONC e  3699: 1 _UPD 15 DEC 2020 18:39:03 GMT -0600 
+1 CONT 
+0 TRLR
